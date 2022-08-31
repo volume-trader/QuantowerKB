@@ -1,6 +1,6 @@
 # Binance fresh account
 
-As [stated in our article](https://www.quantower.com/blog/quantower-participates-in-binance-broker-program), it is possible to use Quantower premium features for free when connected to Binance exchange. That is why, in order to start using Quantower premium without charge, you need to accomplish some steps as follows.
+As [stated in our article](https://www.quantower.com/blog/quantower-participates-in-binance-broker-program), it is possible to use VT-Terminal premium features for free when connected to Binance exchange. That is why, in order to start using VT-Terminal premium without charge, you need to accomplish some steps as follows.
 
 ## **Create a fresh Binance account**
 
@@ -22,5 +22,5 @@ Now select each group of cookies and press the “Remove” button. When there w
 
 ![Binance stores referral data in cookies](../.gitbook/assets/screenshot_3%20%283%29.png)
 
-When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free.
+When you’ve created a new account with the Binance exchange you may log in using your new credentials via the VT-Terminal terminal and start using all of its premium features for free.
 

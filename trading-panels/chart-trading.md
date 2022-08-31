@@ -1,12 +1,12 @@
 ---
 description: >-
   Here you can find out what are the possibilities for manual trading in
-  Quantower directly from the chart.
+  VT-Terminal directly from the chart.
 ---
 
 # Chart Trading
 
-Placing orders on the Quantower platform can be done via different panels like Order Entry, DOM Trader, Chart. In this guide, we will show you how to place orders via Chart using the sidebar trading toolbar and mouse mode.
+Placing orders on the VT-Terminal platform can be done via different panels like Order Entry, DOM Trader, Chart. In this guide, we will show you how to place orders via Chart using the sidebar trading toolbar and mouse mode.
 
 ### **Chart Trading Toolbar**
 

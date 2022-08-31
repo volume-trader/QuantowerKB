@@ -7,7 +7,7 @@ description: >-
 
 # Order entry for Bybit
 
-Placing of orders on the Quantower platform can be done in several ways:
+Placing of orders on the VT-Terminal platform can be done in several ways:
 
 * using the Order Entry panel (OE)
 * Quick order placement through the chart area with a mouse (visual trading)

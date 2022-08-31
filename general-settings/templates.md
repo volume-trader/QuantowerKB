@@ -6,7 +6,7 @@ description: >-
 
 # Templates
 
-Due to the wide list of features, most panels in Quantower platform have a huge list of customization possibilities. The more powerful panel is — the more settings it has. This allows any user to tune each functionality on its own and sometimes this process can take a lot of time to complete.
+Due to the wide list of features, most panels in VT-Terminal platform have a huge list of customization possibilities. The more powerful panel is — the more settings it has. This allows any user to tune each functionality on its own and sometimes this process can take a lot of time to complete.
 
 In order to save your work on workspace customization, we have developed a _**“Templates”**_ functionality. It helps you to save your customizations in special objects — templates — and instantiate them later, keeping all of the applied settings.
 
@@ -39,6 +39,6 @@ If the separate panel is in the Bind, the template saving cannot be applied to i
 ![](<../.gitbook/assets/image (50).png>)
 
 {% hint style="success" %}
-You can **share your templates** with other Quantower traders by sharing the template files with them. Template files can be found in “Quantower -> Settings -> Templates” folder.
+You can **share your templates** with other VT-Terminal traders by sharing the template files with them. Template files can be found in “Quantower -> Settings -> Templates” folder.
 {% endhint %}
 

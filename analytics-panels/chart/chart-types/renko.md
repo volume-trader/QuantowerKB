@@ -1,5 +1,5 @@
 ---
-description: Review and setup Renko charts in Quantower platform
+description: Review and setup Renko charts in VT-Terminal platform
 ---
 
 # Renko

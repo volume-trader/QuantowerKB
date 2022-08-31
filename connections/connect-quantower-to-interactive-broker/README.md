@@ -1,6 +1,6 @@
 ---
 description: >-
-  Follow the steps in this guide to connect the Quantower platform to the
+  Follow the steps in this guide to connect the VT-Terminal platform to the
   Interactive Brokers. The manual contains a detailed description, which will
   allow you to correctly configure the connection.
 ---
@@ -31,13 +31,13 @@ For more details on these limitations see [IB Data Limitations](https://interact
 
 ## Necessary steps for a successful connection to Quantower
 
-This guide will help you to configure the connection to the Interactive Brokers and start working on Quantower platform.
+This guide will help you to configure the connection to the Interactive Brokers and start working on VT-Terminal platform.
 
 {% embed url="https://youtu.be/dhz2OkwfDSg" %}
 Video connection guide to Interactive Brokers
 {% endembed %}
 
-* [**Download**](https://www.quantower.com/) **** and install Quantower trading platform (if you haven’t it yet) of an appropriate version (32 bit or 64 bit), and make sure that your PC complies with the [**minimum requirements**](../../getting-started/installation.md#pc-requirements)****\
+* [**Download**](https://www.quantower.com/) **** and install VT-Terminal trading platform (if you haven’t it yet) of an appropriate version (32 bit or 64 bit), and make sure that your PC complies with the [**minimum requirements**](../../getting-started/installation.md#pc-requirements)****\
   ****
 * To connect to IB, you need to have (or create) a [**demo**](https://www.interactivebrokers.co.uk/en/index.php?f=1286) or [**real account**](https://www.interactivebrokers.com/en/home.php) by clicking the appropriate links on the Interactive Brokers official website.
 
@@ -65,7 +65,7 @@ The difference between IB Gateway and TWS is that IB Gateway has a lighter and l
 
 ![](<../../.gitbook/assets/image (323).png>)
 
-* Next, check that the TWS platform is selected in the connection settings in the Quantower platform.
+* Next, check that the TWS platform is selected in the connection settings in the VT-Terminal platform.
 
 ![](<../../.gitbook/assets/image (326).png>)
 
@@ -89,7 +89,7 @@ For **IB Gateway** in the API Type section select **IB API** only!
 
 ![](<../../.gitbook/assets/image (329).png>)
 
-* Next, check that the IB Gateway is selected in the connection settings in the Quantower platform.
+* Next, check that the IB Gateway is selected in the connection settings in the VT-Terminal platform.
 
 ![Check connection settings and Click on the Connect button once you are logged in to IB Gateway](<../../.gitbook/assets/image (330).png>)
 
@@ -107,7 +107,7 @@ There may be some problems during the connection to Interactive Brokers, for exa
 
 In this case, you need to check the connection settings in our platform and in the TWS platform (or IB Gateway). In our platform, go to the **Connection Settings.**
 
-![Connection settings in Quantower for Interactive Brokers](../../.gitbook/assets/connections-manager-for-ib\_settings.png)
+![Connection settings in VT-Terminal for Interactive Brokers](../../.gitbook/assets/connections-manager-for-ib\_settings.png)
 
 Select the application through which you are connecting  — TWS platform or IB Gateway.
 
@@ -117,7 +117,7 @@ If the problem persists even after choosing the right application, you need to c
 
 ![This Socket port in TWS (or IB gateway) should be the same as in Quantower](../../.gitbook/assets/socket-port.png)
 
-Select the _**Custom**_ connection port type in the Connection settings of Quantower and set the _**Port Value**_
+Select the _**Custom**_ connection port type in the Connection settings of VT-Terminal and set the _**Port Value**_
 
 ### _**Trader Workstation is not running**_
 
@@ -133,7 +133,7 @@ By default, placing orders on Forex pairs in IB is carried out at prices equal t
 
 ![](<../../.gitbook/assets/image (99).png>)
 
-If you place orders in Quantower at prices between those specified, for example 1.19382, you will get a message: _**The Price Does Not Conform to the minimum price variation for this contract (FOREX symbols).**_&#x20;
+If you place orders in VT-Terminal at prices between those specified, for example 1.19382, you will get a message: _**The Price Does Not Conform to the minimum price variation for this contract (FOREX symbols).**_&#x20;
 
 To solve this problem and to be able to place orders at any desired prices, you need to activate the setting in the TWS platform (or in IB Gateway)
 
@@ -155,7 +155,7 @@ This will open the Account Management page without requiring that the account us
 
 At the bottom of the Account Management page, you can find the link to the [**Market Data Subscriptions**](https://ndcdyn.interactivebrokers.com/AccountManagement/AmAuthentication?action=TA\_MARKET\_DATA). Click on the **Gear** icon to customize your subscription to the necessary market data.&#x20;
 
-After this is done, **restart Trader Workstation platform**. Quantower will establish a new connection and you should then receive market data.
+After this is done, **restart Trader Workstation platform**. VT-Terminal will establish a new connection and you should then receive market data.
 
 ![](<../../.gitbook/assets/image (320).png>)
 

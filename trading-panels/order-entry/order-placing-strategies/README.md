@@ -4,13 +4,13 @@ description: Placing orders with some automation
 
 # Order placing strategies
 
-Each time you place an order in Quantower — you do it immediately by pressing a corresponding button and sending your order to the remote server. This is a usual operation for every trader, but what if you would like to schedule the order sending or split the order's quantity in time. Maybe you would like to apply some non-standard order parameters or order types not supported by your broker?
+Each time you place an order in VT-Terminal — you do it immediately by pressing a corresponding button and sending your order to the remote server. This is a usual operation for every trader, but what if you would like to schedule the order sending or split the order's quantity in time. Maybe you would like to apply some non-standard order parameters or order types not supported by your broker?
 
 ## Where and how to use it?
 
 Here comes the functionality of Order placing strategies, allowing simple automation of complex order submission. You can find the corresponding control in every Order entry panel or sidebar.
 
-![Order placing strategy control in Quantower Order entry](../../../.gitbook/assets/Screenshot\_4.png)
+![Order placing strategy control in VT-Terminal Order entry](../../../.gitbook/assets/Screenshot\_4.png)
 
 To apply some Order placing strategy, you should:
 
@@ -34,7 +34,7 @@ There are several placing strategies currently available for use, and this list 
 
 ### Order placing strategies panel
 
-You can find all of the active and finished Placing strategies in the corresponding panel, which you may launch from the Quantower start menu. This panel contains the list of created Strategies and a logs section. You can click on any Strategy and see how it works and what actions it performs. Here you can also stop any active strategy or clear the finished ones.
+You can find all of the active and finished Placing strategies in the corresponding panel, which you may launch from the VT-Terminal start menu. This panel contains the list of created Strategies and a logs section. You can click on any Strategy and see how it works and what actions it performs. Here you can also stop any active strategy or clear the finished ones.
 
 ![Order placing strategies panel](../../../.gitbook/assets/Screenshot\_6.png)
 

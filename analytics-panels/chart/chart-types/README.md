@@ -36,4 +36,4 @@ Charts can also be represented in **6 different styles**:
 * **Area**
 * **Quantower**
 
-![Chart styles in Quantower — Candle, Bar, Line, Dotted Line, Area, Quantower style](<../../../.gitbook/assets/chart-styles (1).png>)
+![Chart styles in VT-Terminal — Candle, Bar, Line, Dotted Line, Area, VT-Terminal style](<../../../.gitbook/assets/chart-styles (1).png>)

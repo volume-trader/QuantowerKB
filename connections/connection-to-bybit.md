@@ -7,7 +7,7 @@ description: >-
 
 # Connection to Bybit
 
-In this guide, we will cover all the steps required to create a trading account on Bybit and connect to the Quantower platform.
+In this guide, we will cover all the steps required to create a trading account on Bybit and connect to the VT-Terminal platform.
 
 * ****[**Open an account on Bybit to get personal API keys**](connection-to-bybit.md#open-an-account-on-bybit-to-get-personal-api-keys)****
 * ****[**Possible Errors with Bybit connection**](connection-to-bybit.md#possible-errors-with-bybit-connection)****
@@ -58,7 +58,7 @@ Once you receive the keys, save them. After closing the window, you will not be 
 
 ![](<../.gitbook/assets/image (84).png>)
 
-Use your personal API Keys to login into your trading account in Quantower platform.
+Use your personal API Keys to login into your trading account in VT-Terminal platform.
 
 ![](../.gitbook/assets/bybit-connected.gif)
 

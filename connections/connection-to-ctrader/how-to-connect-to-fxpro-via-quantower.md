@@ -1,6 +1,6 @@
 # How to connect to FxPro via Quantower
 
-To connect Quantower platform to FxPro broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with FxPro, then go to the penultimate step in this manual.
+To connect VT-Terminal platform to FxPro broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with FxPro, then go to the penultimate step in this manual.
 
 {% embed url="https://youtu.be/FqR1nqsjMrI" %}
 
@@ -18,15 +18,15 @@ To connect Quantower platform to FxPro broker and send trading orders, you need 
 
 ![](../../.gitbook/assets/fxpro-direct-demo.png)
 
-* After creating a demo account, check the E-Mail that you used when registering your account. In the letter with subject **"Welcome to cTrader ID"** is your ID that will be used as a login in platforms Quantower and cTrader. Set the password for authorization by clicking on the **"Set Password"** button.
+* After creating a demo account, check the E-Mail that you used when registering your account. In the letter with subject **"Welcome to cTrader ID"** is your ID that will be used as a login in platforms VT-Terminal and cTrader. Set the password for authorization by clicking on the **"Set Password"** button.
 
 ![](../../.gitbook/assets/set-password.png)
 
 {% hint style="info" %}
-To enter the Quantower platform, use the **cTrader ID** and **password** that you set in the previous step.
+To enter the VT-Terminal platform, use the **cTrader ID** and **password** that you set in the previous step.
 {% endhint %}
 
-* Before connecting for the first time through Quantower platform, you need to activate your account in the cTrader system. You can do it via FxPro **cTrader Web-based** platform [https://ct.fxpro.com/](https://ct.fxpro.com/)
+* Before connecting for the first time through VT-Terminal platform, you need to activate your account in the cTrader system. You can do it via FxPro **cTrader Web-based** platform [https://ct.fxpro.com/](https://ct.fxpro.com/)
 
 ![](../../.gitbook/assets/fxpro-ctrader-activation.png)
 
@@ -34,13 +34,13 @@ To enter the Quantower platform, use the **cTrader ID** and **password** that yo
 
 ![](../../.gitbook/assets/select-demo-account.png)
 
-* After that, in the Quantower platform in the connection manager, select cTrader Gateway connection with Demo or Real and press **"Connect"** button. An authorization form will appear, where you need to specify an email or cTrader ID, as well as a password. This is a standard OAUTH authorization where you can see the connection information. **Allow access** and start trading :)
+* After that, in the VT-Terminal platform in the connection manager, select cTrader Gateway connection with Demo or Real and press **"Connect"** button. An authorization form will appear, where you need to specify an email or cTrader ID, as well as a password. This is a standard OAUTH authorization where you can see the connection information. **Allow access** and start trading :)
 
 ![](../../.gitbook/assets/ctrader-connection.gif)
 
 ![](../../.gitbook/assets/oauth-2019-08-14-18.57.12.png)
 
-* You can place orders via Quantower or cTrader. Good luck!
+* You can place orders via VT-Terminal or cTrader. Good luck!
 
 ![](../../.gitbook/assets/chart-on-ctrader-an-quantower.png)
 

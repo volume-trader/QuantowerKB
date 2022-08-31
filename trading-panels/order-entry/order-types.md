@@ -25,7 +25,7 @@ Orders can be divided into 2 groups by side:
 
 ![Order's side - Buy and Sell](<../../.gitbook/assets/image (220).png>)
 
-Depending on a trading connection Quantower supports the following order types:
+Depending on a trading connection VT-Terminal supports the following order types:
 
 *   **Market** **order** is an order placed without a price with the intention of hitting the best Bid or taking the best Offer currently available in the market. The order fills at the current best price.
 

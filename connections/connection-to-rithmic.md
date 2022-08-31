@@ -7,7 +7,7 @@ description: >-
 
 # Connection to Rithmic
 
-To connect Quantower to a broker that uses Rithmic technology, it is sufficient to have (or create a new) account.
+To connect VT-Terminal to a broker that uses Rithmic technology, it is sufficient to have (or create a new) account.
 
 * ****[**Connection for Existed Accounts**](connection-to-rithmic.md#connection-for-existed-accounts)****
 * ****[**Connection for New Accounts**](connection-to-rithmic.md#connection-for-new-accounts)****
@@ -46,13 +46,13 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 
 **Market by Order (MBO) data** shows the order size of an individual position inside the level2 data for a certain price. To activate the displaying of this data, open the Connection settings and tick on "**Enable 'Market by Order' (MBO) mode**".
 
-![Enable Market by Order MBO data for Rithmic in Quantower platform](<../.gitbook/assets/image (354) (1).png>)
+![Enable Market by Order MBO data for Rithmic in VT-Terminal platform](<../.gitbook/assets/image (354) (1).png>)
 
 After activation, you can see this data in the DOM Trader panel.&#x20;
 
 Open **Settings** in the DOM trader panel -> **Columns** -> **Bids/Ask** (if you use split mode or **Bids** and **Asks** as single columns) -> **Size coloring scheme** -> **MBO.**  Also, you can set **Filter orders more than (MBO)** if you want to see orders with a certain size.
 
-![Activating MBO data in Quantower platform](<../.gitbook/assets/image (353) (1).png>)
+![Activating MBO data in VT-Terminal platform](<../.gitbook/assets/image (353) (1).png>)
 
 ![Visual comparison between Market by Oder (MBO) and Market by Price (MBP)](<../.gitbook/assets/MBO vs MBP.png>)
 
@@ -63,7 +63,7 @@ Open **Settings** in the DOM trader panel -> **Columns** -> **Bids/Ask** (if you
 Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market Data Connection Closed (Broken)".**_ Below we will describe possible reasons and solutions.
 
 {% hint style="warning" %}
-This error message is most commonly encountered by _**new Rithmic users for various reasons**_ and is not within the control of the Quantower platform.&#x20;
+This error message is most commonly encountered by _**new Rithmic users for various reasons**_ and is not within the control of the VT-Terminal platform.&#x20;
 {% endhint %}
 
 ![Rithmic error "Market Data Connection Closed" in Quantower](../.gitbook/assets/connections-error-with-rithmic.png)
@@ -94,13 +94,13 @@ More often such error occurs for the following reasons:
 
 ![](<../.gitbook/assets/image (355) (1) (1) (1) (1) (1) (1).png>)
 
-*   If Quantower was connected to Rithmic before via the RTrader Plugin (i.e. the checkbox Use RTrader is active), and at the moment the RTrader Pro platform is not connected or the **Allow Plugins** option is not active there, then Quantower will not be able to connect.
+*   If VT-Terminal was connected to Rithmic before via the RTrader Plugin (i.e. the checkbox Use RTrader is active), and at the moment the RTrader Pro platform is not connected or the **Allow Plugins** option is not active there, then VT-Terminal will not be able to connect.
 
     _**Solution (several different options, not step-by-step):**_
 
     _1) start RTrader Pro platform with **Allow Plugins** mode and connect again to your account in Quantower_
 
-    _2) try to connect to Rithmic as a direct connection: close RTrader Pro platform, disable **Use Rtrader** option in Quantower settings and restart Quantower. After start Quantower again and connect to your account as a direct connection_
+    _2) try to connect to Rithmic as a direct connection: close RTrader Pro platform, disable **Use Rtrader** option in VT-Terminal settings and restart Quantower. After start VT-Terminal again and connect to your account as a direct connection_
 
 ![Plugin Mode in RTrader Pro is disabled but active in Quantower](<../.gitbook/assets/image (351) (1) (1).png>)
 
@@ -108,7 +108,7 @@ More often such error occurs for the following reasons:
 
     When trying to connect with one login on different platforms, it can log out from the first platform (which was connected), but the login on the second platform will not be successfully connected (on which we are trying to log in).
 
-    _**Solution:** use RTrader Plugin mode for multiple connections or close all platforms and connect via Quantower as direct connection (without Rtrader plugin mode)_
+    _**Solution:** use RTrader Plugin mode for multiple connections or close all platforms and connect via VT-Terminal as direct connection (without Rtrader plugin mode)_
 
 ![](<../.gitbook/assets/image (345).png>)
 

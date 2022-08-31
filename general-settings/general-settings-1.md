@@ -1,7 +1,7 @@
 ---
 description: >-
   General settings — is a screen, where you can set up the most common behavior
-  of the whole Quantower platform.
+  of the whole VT-Terminal platform.
 ---
 
 # General settings
@@ -27,7 +27,7 @@ Most settings are applied automatically, once you change them, but, in some case
 
 ## General settings tab
 
-![General settings of Quantower — Localization, Themes, Sounds, RTD, Time zones](<../.gitbook/assets/image (136).png>)
+![General settings of VT-Terminal — Localization, Themes, Sounds, RTD, Time zones](<../.gitbook/assets/image (136).png>)
 
 **Theme** — Сhoose one of the 8 color schemes that suit you best
 
@@ -42,11 +42,11 @@ Most settings are applied automatically, once you change them, but, in some case
 
 ![Coloring themes in Quantower](../.gitbook/assets/themes.gif)
 
-**Language (beta)** — Quantower supports 17 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual on [how to make changes in the selected language](https://help.quantower.com/customization/localization).
+**Language (beta)** — VT-Terminal supports 17 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual on [how to make changes in the selected language](https://help.quantower.com/customization/localization).
 
 **Default symbol** — specify a trading symbol that will open by default in all trading panels.
 
-**Autosave settings (every 5 minutes)** — Quantower will save all changes of application settings in the "Settings" folder and overwrite them every 5 minutes while the application is active. It also saves on application close.
+**Autosave settings (every 5 minutes)** — VT-Terminal will save all changes of application settings in the "Settings" folder and overwrite them every 5 minutes while the application is active. It also saves on application close.
 
 **Abbreviate volume & ticks** — this option displays the volume values or the number of ticks in a simplified form (1K = 1 000; 10K = 10 000 etc.)
 
@@ -98,7 +98,7 @@ The group of actions in Quantower, when the sound should be played consists of t
 | **Confirm order cancellation**          | true | Ask before canceling an order                          |
 | **Confirm order/position modification** | true | Ask before an order or position modifications apply    |
 | **Confirm position reversing**          | true | Ask before reversing the position                      |
-| **Confirm application close**           | true | Ask before closing the Quantower terminal              |
+| **Confirm application close**           | true | Ask before closing the VT-Terminal terminal              |
 | **Confirm bind close**                  | true | Ask before closing the binds                           |
 | **Show deal tickets**                   | true | Show the pop-up screens with the trading notifications |
 | **Confirm hotkeys action**              | true | Ask before making any action with Hotkey               |
@@ -113,9 +113,9 @@ In Time zone settings group you can select what time zones are your favorite and
 
 ## Excel RTD
 
-Start from version 1.39 Quantower supports RealTimeData (RTD) for sending data and other market information to Microsoft Excel®. Read our guide about [how to enable and use RTD function with Quantower](../miscellaneous-panels/excel-rtd-trading/).
+Start from version 1.39 VT-Terminal supports RealTimeData (RTD) for sending data and other market information to Microsoft Excel®. Read our guide about [how to enable and use RTD function with Quantower](../miscellaneous-panels/excel-rtd-trading/).
 
-![RTD function in Quantower trading platform](<../.gitbook/assets/image (66).png>)
+![RTD function in VT-Terminal trading platform](<../.gitbook/assets/image (66).png>)
 
 ## Messengers
 
@@ -126,7 +126,7 @@ Quantower Alert Bot will send a message to your Telegram account about all event
 To add a bot to the Telegram, open the platform's **General Settings -> Messengers -> Duplicate alerts to Telegram**.
 
 Specify your personal chat ID, which you can find out by clicking on the **Get ID** button. A new Chat ID Echo bot will open and it will show _**"Your Telegram Chat ID is: xxxxxxx"**_\
-Enter your chat ID in the corresponding field and then connect to the Quantower Alert Bot.
+Enter your chat ID in the corresponding field and then connect to the VT-Terminal Alert Bot.
 
 ![](<../.gitbook/assets/image (137).png>)
 

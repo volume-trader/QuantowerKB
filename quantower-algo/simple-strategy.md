@@ -1,10 +1,10 @@
 ---
-description: How to create you first strategy and run it the Quantower trading platform
+description: How to create you first strategy and run it the VT-Terminal trading platform
 ---
 
 # Simple strategy
 
-In our previous articles, we showed you how to use Quantower Algo extension and write your own indicators. Now we show you how to create you first strategy and run it the Quantower trading platform.
+In our previous articles, we showed you how to use VT-Terminal Algo extension and write your own indicators. Now we show you how to create you first strategy and run it the VT-Terminal trading platform.
 
 {% hint style="info" %}
 See examples of some strategies, integrations and indicators in our [Github repository](https://github.com/Quantower/Examples)
@@ -22,7 +22,7 @@ You will get generated code with a few empty functions:
 
 ![Source code for Strategy template](../.gitbook/assets/empty-code.png)
 
-As you can see, this blank version is not related to any trading functionality - it is a just general code-basis. It is inherited of class Strategy, by this Quantower recognize that your code is compatible and can be executed in Quantower. 
+As you can see, this blank version is not related to any trading functionality - it is a just general code-basis. It is inherited of class Strategy, by this VT-Terminal recognize that your code is compatible and can be executed in Quantower. 
 
 ## Basic methods
 
@@ -60,7 +60,7 @@ Now we have a little more code - strategy contains Symbol and Account input vari
 
 ## Example
 
-Let's create some trivial example and try to run it in the Quantower platform. We will talk about retrieving current trading information and trading operations in our next articles, for the current moment, we just add counters for each type of quotes and strategy metrics for displaying in Strategy Runner panel. We will add examples of logs also - you should always use them, as it can help you to understand the current strategy state or display error information. You can specify a type of log: **Info, Error or Trading**.
+Let's create some trivial example and try to run it in the VT-Terminal platform. We will talk about retrieving current trading information and trading operations in our next articles, for the current moment, we just add counters for each type of quotes and strategy metrics for displaying in Strategy Runner panel. We will add examples of logs also - you should always use them, as it can help you to understand the current strategy state or display error information. You can specify a type of log: **Info, Error or Trading**.
 
 ```csharp
 /// <summary>
@@ -122,7 +122,7 @@ protected override List<StrategyMetric> OnGetMetrics()
 }
 ```
 
-Build your project, and if your Quantower Algo is properly assigned to an instance of Quantower, your strategy will be automatically copied to an appropriate folder and you will see it in Strategy Lookup window:
+Build your project, and if your VT-Terminal Algo is properly assigned to an instance of Quantower, your strategy will be automatically copied to an appropriate folder and you will see it in Strategy Lookup window:
 
 ![Now your strategy is available in the Strategies Lookup](../.gitbook/assets/strategy-in-lookup.png)
 

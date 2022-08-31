@@ -4,7 +4,7 @@ description: >-
   platform
 ---
 
-# Quantower Main Toolbar
+# VT-Terminal Main Toolbar
 
 **Main Toolbar** — is the main starting point of the platform, used as a launcher and informer simultaneously.
 
@@ -40,7 +40,7 @@ For optimal use of the space on the Main Toolbar, we have added the ability to d
 
 All of the panels are placed in the _“Sidebar”_ screen, which is popping out once you click the **Logo icon** on the toolbar. The Main Menu consists of panel icons, grouped by functionality. Actually, in this menu, you can find all panels.
 
-![Main menu in the Quantower platform](../.gitbook/assets/main-manu.png)
+![Main menu in the VT-Terminal platform](../.gitbook/assets/main-manu.png)
 
 Each group in this menu can be collapsed in order to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
 
@@ -113,7 +113,8 @@ You can remove a connection from Favorites by right-clicking on it and selecting
 
 Most actions during the platform use generate various notifications. There can be system notifications (some connection problems or errors) and Deal tickets.&#x20;
 
-The **Deal tickets** — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this.&#x20;(you can [disable deat tickets in general settings](general-settings-1.md#confirmations))
+The **Deal tickets** — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this.&#x20;
+(you can [disable deat tickets in general settings](general-settings-1.md#confirmations))
 
 While some trading actions may be done in one click at the first sight, they usually consist of several related operations, each of them will be displayed via the Deal tickets. That is why you can see much more items in Notifications center than you did actions.&#x20;
 

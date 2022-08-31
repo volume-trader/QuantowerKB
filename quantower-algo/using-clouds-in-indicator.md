@@ -81,7 +81,7 @@ this.SlowAboveCloudColor = Color.FromArgb(127, Color.Red);
 
 In the ‘OnInit ‘ method we create two SMA indicators and attach them to our main ‘HistoricalData’. 
 
-> Notice, we use Quantower built-in indicator collection.
+> Notice, we use VT-Terminal built-in indicator collection.
 
 ```csharp
 protected override void OnInit()

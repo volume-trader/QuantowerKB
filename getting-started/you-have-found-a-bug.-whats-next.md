@@ -1,6 +1,6 @@
 ---
 description: >-
-  If you faced an abnormal application’s behavior while using Quantower — don’t
+  If you faced an abnormal application’s behavior while using VT-Terminal — don’t
   panic.
 ---
 

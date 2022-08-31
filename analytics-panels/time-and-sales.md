@@ -13,10 +13,10 @@ description: >-
 
 Time & Sales panel keeps a running record of trades for selected instruments displayed in chronological order. Each new entry is added to the top of the list, causing the panel screen to auto-scroll downward.
 
-![Time & Sales panel in Quantower shows all executed trades](../.gitbook/assets/time-and-sales.gif)
+![Time & Sales panel in VT-Terminal shows all executed trades](../.gitbook/assets/time-and-sales.gif)
 
 {% embed url="https://www.youtube.com/watch?v=-R_AXBMlNpM" %}
-Aggregated Time & Sales in Quantower also known as Reconstructed Tape
+Aggregated Time & Sales in VT-Terminal also known as Reconstructed Tape
 {% endembed %}
 
 ### Real-time and Historical modes
@@ -27,7 +27,7 @@ Real-time mode shows all the trades that are currently executed. The historical 
 
 ### General settings
 
-The basic settings in Time & Sales are similar to the parameters of most panels in Quantower — full flexibility in color settings, fonts, columns visibility, data position relative to the column, etc.&#x20;
+The basic settings in Time & Sales are similar to the parameters of most panels in VT-Terminal — full flexibility in color settings, fonts, columns visibility, data position relative to the column, etc.&#x20;
 
 ![Time & Sales settings in Quantower](../.gitbook/assets/time\_sales-settings.png)
 

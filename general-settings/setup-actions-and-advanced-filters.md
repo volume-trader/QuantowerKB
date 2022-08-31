@@ -16,7 +16,7 @@ description: >-
 * ****[**Trades**](../portfolio-panels/trades.md)****
 * ****[**Orders History**](../portfolio-panels/orders-history.md)****
 
-![Setup Actions feature in Quantower platform](<../.gitbook/assets/image (64).png>)
+![Setup Actions feature in VT-Terminal platform](<../.gitbook/assets/image (64).png>)
 
 Setup Actions consists of two options:
 
@@ -25,7 +25,7 @@ Setup Actions consists of two options:
 
 ## Actions
 
-Currently, Quantower tables support four types of actions:
+Currently, VT-Terminal tables support four types of actions:
 
 * Show message
 * Play sound

@@ -11,7 +11,7 @@ description: >-
 
 **Time Price Opportunity** or **TPO Chart**, shows the price distribution during the specified time, thus forming a profile. This allows you to understand at which levels or ranges the price has spent the most time, as well as to determine the main support and resistance levels.
 
-![TPO Profile Chart (Market Profile) general view in Quantower platform](<../.gitbook/assets/TPO Chart.png>)
+![TPO Profile Chart (Market Profile) general view in VT-Terminal platform](<../.gitbook/assets/TPO Chart.png>)
 
 To open a new TPO panel, go to the _**Main menu**_ (Logo icon) and select _**TPO Chart**_ in the Analytics section.
 
@@ -39,7 +39,7 @@ There are three main controls on the top toolbar of TPO chart panel:
 
 ### Aggregation of TPO Profile Chart
 
-The base element of the TPO chart is letters that are used to build the market profile structure. Each letter initially represents a half-hour period. Quantower offers to specify in the aggregation settings any values on the basis of which the profile will be built. For example, a daily profile of 30-minute bars is considered as a “standard”. But you can set a lower value of “**Build From**” and the profile will be more granular. Conversely, set the value higher and the shape of the profile will be smoother.
+The base element of the TPO chart is letters that are used to build the market profile structure. Each letter initially represents a half-hour period. VT-Terminal offers to specify in the aggregation settings any values on the basis of which the profile will be built. For example, a daily profile of 30-minute bars is considered as a “standard”. But you can set a lower value of “**Build From**” and the profile will be more granular. Conversely, set the value higher and the shape of the profile will be smoother.
 
 ![](../.gitbook/assets/custom-period.gif)
 
@@ -70,7 +70,7 @@ Choose any color scheme for better representation and analysis of the TPO profil
 
 ![POC Type on TPO Profile chart](<../.gitbook/assets/POC Type on TPO profile.gif>)
 
-* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a **** [**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
+* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a **** [**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, VT-Terminal style**_.
 
 ![](../.gitbook/assets/overlaying-chart.gif)
 

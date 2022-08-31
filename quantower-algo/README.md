@@ -5,5 +5,5 @@ description: >-
   practices used by developers all over the world
 ---
 
-# Quantower Algo
+# VT-Terminal Algo
 

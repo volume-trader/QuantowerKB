@@ -4,7 +4,7 @@
 
 As P & F chart and Range bars, **Kagi chart** is full time-independent and based on price action only. Kagi chart consist of vertical lines that connected by horizontal lines.
 
-![Kagi chart in Quantower platform](../../../.gitbook/assets/kagi-charts.png)
+![Kagi chart in VT-Terminal platform](../../../.gitbook/assets/kagi-charts.png)
 
 ### Kagi chart calculation
 

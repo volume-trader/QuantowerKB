@@ -1,12 +1,12 @@
 ---
 description: >-
-  Use cTrader Gateway in Quantower platform for connection to any cTrader's
+  Use cTrader Gateway in VT-Terminal platform for connection to any cTrader's
   broker.
 ---
 
 # Connection to cTrader
 
-To connect Quantower to a broker that uses cTrader technology, it is sufficient to have (or create a new) account and log in with the cTrader ID. [**Full list of supported brokers** ](https://ctrader.com/featured-brokers/)you can find on official cTrader webstite.
+To connect VT-Terminal to a broker that uses cTrader technology, it is sufficient to have (or create a new) account and log in with the cTrader ID. [**Full list of supported brokers** ](https://ctrader.com/featured-brokers/)you can find on official cTrader webstite.
 
 See the detailed connection instructions of several cTrader brokers below:
 

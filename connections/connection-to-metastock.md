@@ -2,13 +2,13 @@
 description: >-
   This guide walks you through the process of registering a new account for
   MetaStock XENITH, installing the Eikon application and how to connect it via
-  Quantower platform
+  VT-Terminal platform
 ---
 
 # Connection to MetaStock
 
 * ****[**Download and install Metastock XENITH**](connection-to-metastock.md#download-and-install-metastock-xenith)****
-* ****[**Launch Quantower with Metastock connection**](connection-to-metastock.md#launch-quantower-with-metastock-connection)****
+* ****[**Launch VT-Terminal with Metastock connection**](connection-to-metastock.md#launch-quantower-with-metastock-connection)****
 * ****[**How to add symbol to the chart or other panel**](connection-to-metastock.md#how-to-add-symbol-to-the-chart-or-other-panel)****
 
 ### How to install Meta**S**tock XENITH / EIKON and create an account?
@@ -29,9 +29,9 @@ Metastock offers a database of various analytical data that is divided not only 
 
 After you have chosen the necessary subscription and created a new account, you need to sign User Agreement, download and install Metastock XENITH. The link is available in your personal cabinet after registration.
 
-### **Launch Quantower with Metastock connection**
+### **Launch VT-Terminal with Metastock connection**
 
-Select Metastock connection in the Quantower connection manager and press Connect. That will also launch Metastock software. Enter the credentials you’ve got from Metastock in their application.
+Select Metastock connection in the VT-Terminal connection manager and press Connect. That will also launch Metastock software. Enter the credentials you’ve got from Metastock in their application.
 
 ![Click on the Connect button and the platform will start Eikon platform automatically](../.gitbook/assets/connection-to-metastock.png)
 
@@ -47,7 +47,7 @@ The search engine in the Eikon platform allows you to search for stocks by text 
 
 For this reason, **it is important to use the exact stock ticker as presented on the Eikon platform**. Otherwise, you will not receive search results.
 
-![Use the exact stocks ticker to get market data in Quantower ](<../.gitbook/assets/image (300).png>)
+![Use the exact stocks ticker to get market data in VT-Terminal ](<../.gitbook/assets/image (300).png>)
 
 ![Use the exact stocks ticker to get market data in Quantower](<../.gitbook/assets/image (298).png>)
 

@@ -10,7 +10,8 @@
 
 ![](<../.gitbook/assets/image (164).png>)
 
-The easiest method is starting troubleshooting with simply **disabling Game Bar**. This could be helpful to remove the key combination and use it for other purposes.&#x20;Now, you can take these steps:
+The easiest method is starting troubleshooting with simply **disabling Game Bar**. This could be helpful to remove the key combination and use it for other purposes.
+&#x20;Now, you can take these steps:
 
 * Press the **Win + I** combination key to open Windows Settings
 * Go to **Gaming > Gaming bar**.
@@ -24,7 +25,7 @@ More details you can find here [https://www.minitool.com/news/ms-gaming-overlay-
 
 ![](<../.gitbook/assets/image (161).png>)
 
-* This message is displayed if you try running multiple Quantowers in parallel on the same computer or you have closed Quantower a few seconds ago and it did not finish closing yet. In 20 seconds or sooner Quantower can be started again.
+* This message is displayed if you try running multiple Quantowers in parallel on the same computer or you have closed VT-Terminal a few seconds ago and it did not finish closing yet. In 20 seconds or sooner VT-Terminal can be started again.
 * If even after a few minutes the platform fails to start, go to the **Task Manager**. Press **Ctrl+Shift+Esc** to open the Task Manager with a keyboard shortcut or right-click the Windows taskbar and select “Task Manager.”\
   Find the process with the name **"Starter"**, select it and click on **End task**.
 

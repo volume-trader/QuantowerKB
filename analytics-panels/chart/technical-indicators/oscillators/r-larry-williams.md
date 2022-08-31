@@ -12,8 +12,10 @@
 
 Where:
 
-Lowest Low = lowest low for the look-back period\
-Highest High = highest high for the look-back period\
+Lowest Low = lowest low for the look-back period
+\
+Highest High = highest high for the look-back period
+\
 %R is multiplied by -100 correct the inversion and move the decimal.
 
 

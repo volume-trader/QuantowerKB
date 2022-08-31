@@ -10,7 +10,7 @@ description: >-
 
 Each bar in a Volume Bar chart contains a specified volume level. This volume level is reached by accumulating the volume of each of the underlying bars. When the volume level is reached, the next Volume Bar begins to accumulate volume from the underlying bars.
 
-![The comparison between Time chart and Volume Bars chart type in Quantower platform](../../../.gitbook/assets/volume-bars-chart-in-quantower.png)
+![The comparison between Time chart and Volume Bars chart type in VT-Terminal platform](../../../.gitbook/assets/volume-bars-chart-in-quantower.png)
 
 ### How to set Volume Bars chart?
 

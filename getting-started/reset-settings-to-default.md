@@ -12,7 +12,7 @@ Settings folder contains all the workspaces, saved templates, as well as all the
 * [**How to share your  Workspaces with other traders**](reset-settings-to-default.md#how-to-share-your-workspaces-with-other-traders)****
 * [**How to copy all settings to other PC**](reset-settings-to-default.md#how-to-copy-all-settings-to-other-pc)****
 
-### **Save, copy, restore and reset Quantower settings - video**
+### **Save, copy, restore and reset VT-Terminal settings - video**
 
 {% embed url="https://www.youtube.com/watch?v=n0lUFu8FNN8&t=168s" %}
 Quantower Settings. How to Save, Copy, Restore, Reset
@@ -20,7 +20,7 @@ Quantower Settings. How to Save, Copy, Restore, Reset
 
 ### How to Reset All Settings to default
 
-Sometimes all platform's settings need to be reset to default. To do this, close the platform, **Right-click** on Quantower icon and select **Open File Location** from the context menu.
+Sometimes all platform's settings need to be reset to default. To do this, close the platform, **Right-click** on VT-Terminal icon and select **Open File Location** from the context menu.
 
 {% hint style="success" %}
 You can save the current settings if you want to return to them later. Just rename your **Settings** folder to something else, like _**Settings\_My**_ etc.
@@ -43,7 +43,7 @@ Before sending your Settings to developers for checking the problem, add the ful
 
 ### How to provide Settings for developers (for checking an issue)
 
-Close the platform, **Right-click** on Quantower icon, and select **Open File Location** from the context menu.
+Close the platform, **Right-click** on VT-Terminal icon, and select **Open File Location** from the context menu.
 
 ![](../.gitbook/assets/screenshot\_39.png)
 
@@ -65,12 +65,12 @@ Moreover, for checking issues our developers can request Log Files. Please go to
 ### How to share your Templates with other traders
 
 {% hint style="success" %}
-You can share your templates with other Quantower traders by sharing template files with them. Template files can be found in the folder **"Quantower -> Settings -> Templates"**
+You can share your templates with other VT-Terminal traders by sharing template files with them. Template files can be found in the folder **"Quantower -> Settings -> Templates"**
 
 The file to be transferred must be placed in a similar folder on another computer
 {% endhint %}
 
-Recall that in the Quantower platform, all created templates are stored in the Control Center sidebar in the **"Templates"** group. Thus, you can launch any template from this location at any time with a single click. You can place your saved templates in the Favorites panel in the Control Center, just like any other default panel.
+Recall that in the VT-Terminal platform, all created templates are stored in the Control Center sidebar in the **"Templates"** group. Thus, you can launch any template from this location at any time with a single click. You can place your saved templates in the Favorites panel in the Control Center, just like any other default panel.
 
 ![](<../.gitbook/assets/image (313).png>)
 
@@ -87,7 +87,7 @@ The file to be transferred must be placed in a similar folder on another PC.
 ### How to copy all settings to another PC
 
 {% hint style="info" %}
-[Copy the settings folder to another PC](reset-settings-to-default.md#how-to-provide-settings-for-developers-for-checking-an-issue) or COPY the entire Quantower folder to another PC. It is totally portable.
+[Copy the settings folder to another PC](reset-settings-to-default.md#how-to-provide-settings-for-developers-for-checking-an-issue) or COPY the entire VT-Terminal folder to another PC. It is totally portable.
 {% endhint %}
 
 

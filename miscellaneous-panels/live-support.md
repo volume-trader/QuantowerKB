@@ -4,12 +4,12 @@ description: Leave any question you have about our platform and we will answer i
 
 # Live Support
 
-If you faced any troubles or questions while using terminal feel free to ask Quantower Live support about it. You can do it several ways:
+If you faced any troubles or questions while using terminal feel free to ask VT-Terminal Live support about it. You can do it several ways:
 
 * Live support panel in terminal 
 * Live support on website [https://www.quantower.com](https://www.quantower.com) \(good for cases, when you have problems with application launch or don’t have one installed yet\)
 
-The Live support panel in Quantower application is built in order allow integration of support channel into your workspace. This panel can be easily bond with others.
+The Live support panel in VT-Terminal application is built in order allow integration of support channel into your workspace. This panel can be easily bond with others.
 
 ![Quantower support at your service](../.gitbook/assets/livesupport.png)
 

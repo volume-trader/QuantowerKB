@@ -34,4 +34,4 @@ Once connected, info column will contain the data about ping and current connect
 Quantower supports multiple connections simultaneously, but this function available under paid licenses — Advanced Features, Crypto Package, Multi-Asset package and All-In-One License.
 {% endhint %}
 
-![Multiple connections in Quantower at the same time ](../.gitbook/assets/multiple-connections.png)
+![Multiple connections in VT-Terminal at the same time ](../.gitbook/assets/multiple-connections.png)

@@ -7,7 +7,7 @@ description: >-
 # Connection to CQG (AMP Futures)
 
 * ****[**How to Create a New Demo Account?**](./#how-to-start-trading-via-amp-cqg-connection)****
-* ****[**How to Find a Trading Symbol in Quantower for CQG connection?**](./#how-to-add-trading-symbols-from-the-cqg-connection)****
+* ****[**How to Find a Trading Symbol in VT-Terminal for CQG connection?**](./#how-to-add-trading-symbols-from-the-cqg-connection)****
 * ****[**How to add TRIN, TICK market indicators into Quantower?**](./#how-to-add-trin-tick-market-indicators-into-quantower)****
 * ****[**Possible Errors with CQG connection**](errors-with-cqg.md)****
 * ****[**Trading with AMP/CQG (key points) — OCO, Brackets, Multi-Brackets**](../../trading-panels/order-entry/order-entry-for-cqg.md)****

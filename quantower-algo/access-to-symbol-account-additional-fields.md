@@ -8,7 +8,7 @@ description: Access to collection of additional fields
 
 Quantower terminal contains lot of useful panels. There are complex panels that display data and allow you to manipulate it. But also, there are simple panels that simply display data. For example, **Symbol Info** and **Account info** panels. Their goal is to provide all available information on the selected symbol and account.
 
-The Quantower API divides the information they display into two categories - **basic** information and **additional** information.
+The VT-Terminal API divides the information they display into two categories - **basic** information and **additional** information.
 
 ### Basic information
 

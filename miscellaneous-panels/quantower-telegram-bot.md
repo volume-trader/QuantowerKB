@@ -4,7 +4,7 @@ description: >-
   Targets and Trading operations.
 ---
 
-# Quantower Telegram Bot
+# VT-Terminal Telegram Bot
 
 Quantower Alert Bot will send a message to your Telegram account about all events that you set in the platform. For example, set a price alert on the chart, and when the price will reach this level, a notification to the messenger will be sent.
 
@@ -14,11 +14,11 @@ Quantower Alert Bot will send a message to your Telegram account about all event
 
 To add a bot to the Telegram, open the platform's **General Settings -> Messengers -> Duplicate alerts to Telegram**.
 
-![Open General Setting for adding Quantower Telegram Bot](<../.gitbook/assets/image (171).png>)
+![Open General Setting for adding VT-Terminal Telegram Bot](<../.gitbook/assets/image (171).png>)
 
 1. Specify your personal chat ID, which you can find out by clicking on the **Get ID** button.&#x20;
 2. A new Chat ID Echo bot will open and it will show _**"Your Telegram Chat ID is: xxxxxxx".**_ Enter your chat ID in the corresponding field
-3. Connect to the Quantower Alert Bot.
+3. Connect to the VT-Terminal Alert Bot.
 
 ![](<../.gitbook/assets/image (137).png>)
 
@@ -36,4 +36,4 @@ _**"Alert on ENQM21: price 13,379.00 reached."**_
 
 If you activate the '**Duplicate Trading Notifications to Telegram'** option, all trading messages will be automatically forwarded to Telegram.
 
-![Duplicate trading notiffications to Telegram with Quantower Bot ](<../.gitbook/assets/image (169).png>)
+![Duplicate trading notiffications to Telegram with VT-Terminal Bot ](<../.gitbook/assets/image (169).png>)

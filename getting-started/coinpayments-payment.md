@@ -1,13 +1,13 @@
 ---
 description: >-
-  One of the most popular payment methods for Quantower licenses — is a
+  One of the most popular payment methods for VT-Terminal licenses — is a
   Coinpayments service. It allows paying for advanced functionalities by various
   crypto assets (coins).
 ---
 
 # “Coinpayments” payment
 
-While the process of coins transfer between digital wallets is pretty usual and straightforward, we decided to mention some additional aspects of Quantower license purchase using crypto coins.
+While the process of coins transfer between digital wallets is pretty usual and straightforward, we decided to mention some additional aspects of VT-Terminal license purchase using crypto coins.
 
 When you decide to pay for a license using your crypto-assets, you should press “Buy” for the required feature. Next, you should click “Pay with Coinpayments”. Now, you will be redirected to Coinpayments merchant where you should select a coin and then — “Complete Checkout”. You can register here, but it is not necessary.
 
@@ -25,7 +25,8 @@ Here we would like to share some advice:
 
 ## Purchase details page
 
-Next, you will be redirected to the temporary payment page that will be active for 2 hours. During this time you should transfer the selected coin to complete the purchase. We recommend you to stay on this page until you will see the successful purchase message. 
+
+Next, you will be redirected to the temporary payment page that will be active for 2 hours. During this time you should transfer the selected coin to complete the purchase. We recommend you to stay on this page until you will see the successful purchase message. 
 
 ![Payment details page](<../.gitbook/assets/screenshot\_2 (1).png>)
 
@@ -46,7 +47,8 @@ Let’s say that you’ve sent your coins and now waiting for the license assign
 
 ## License assignment check
 
-There are some technical processes in the Coinpayments that should be accomplished before they inform us about the successful payment. These require time, so **your license can’t be assigned to your account until we get approval from Coinpayments**. Even if there is a Completed status.
+
+There are some technical processes in the Coinpayments that should be accomplished before they inform us about the successful payment. These require time, so **your license can’t be assigned to your account until we get approval from Coinpayments**. Even if there is a Completed status.
 
 ![Completed transaction](../.gitbook/assets/screenshot\_6.png)
 

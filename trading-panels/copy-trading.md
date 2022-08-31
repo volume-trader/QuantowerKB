@@ -6,11 +6,11 @@ description: >-
 
 # Copy Trading
 
-One of the frequent questions from our community is: how to Copy trading between multiple accounts? Such functionality can be very useful for proprietary trading companies and managers with multiple accounts who use Quantower as their trading tool.
+One of the frequent questions from our community is: how to Copy trading between multiple accounts? Such functionality can be very useful for proprietary trading companies and managers with multiple accounts who use VT-Terminal as their trading tool.
 
 ## **Introduction**
 
-The panel performs trading operations thus can be found in the "Trading" group of the Quantower main menu.
+The panel performs trading operations thus can be found in the "Trading" group of the VT-Terminal main menu.
 
 ![Copy trading panel in a list of other panels](../.gitbook/assets/frame-9.png)
 
@@ -19,7 +19,7 @@ Copy trading panel allows you to fully duplicate trading activity between multip
 {% hint style="info" %}
 Before you start creating your first Copy-bot, please notice the following information:
 
-\- Copy-trading can work only if the Quantower terminal is launched.
+\- Copy-trading can work only if the VT-Terminal terminal is launched.
 
 \- If the dependent connections (parent & child) are NOT ACTIVE, the Bot will copy orders for active connections only and ignore disconnected.
 
@@ -54,7 +54,8 @@ In a **Percentage mode**, the bot will calculate the quantity relative to the Pa
 **Percentage Example:** Parent account has a balance of $1000. The Child account has a balance of $2000. When you place an order on the parent account equal to $100 (10% of the total balance), an order will be placed automatically on the child account for 10% of its total balance, or 200$.
 {% endhint %}
 
-In a **Multiplier mode**, the bot will take a quantity from the Parent order and multiply it with the Multiplier coefficient, thus getting a quantity value for a Child copy order.
+
+In a **Multiplier mode**, the bot will take a quantity from the Parent order and multiply it with the Multiplier coefficient, thus getting a quantity value for a Child copy order.
 
 {% hint style="success" %}
 **Multiplier Example:** The parent account has an order of $100, and the Bot is set up with Multiplier Coefficient (C)=0.5. Once you place the order on the parental account, the order will be copied to the child account considering C=0.5, i.e. $100 \* 0.5 = $50

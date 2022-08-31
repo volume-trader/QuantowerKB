@@ -1,13 +1,13 @@
 ---
 description: >-
   Historical Symbols panel is designed to import historical data from
-  third-party data providers to Quantower with performing a subsequent technical
+  third-party data providers to VT-Terminal with performing a subsequent technical
   analysis or backtesting.
 ---
 
 # Historical Symbols
 
-If you need to import trading quotes to Quantower from a third-party data provider for performing a backtest or technical analysis, Historical Symbols will be indispensable in this case. For example, you can download any price data from Quandl, IQFeed, NASDAQ or Yahoo and test your trading idea on them.
+If you need to import trading quotes to VT-Terminal from a third-party data provider for performing a backtest or technical analysis, Historical Symbols will be indispensable in this case. For example, you can download any price data from Quandl, IQFeed, NASDAQ or Yahoo and test your trading idea on them.
 
 ![General view of Historical Symbols panel](../.gitbook/assets/historical-symbols.png)
 

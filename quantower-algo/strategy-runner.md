@@ -90,7 +90,7 @@ There is also an **additional settings screen** allowing to set up some Exchange
 
 Another feature of the "Strategy runner" panel is an **Interactive mode**. It is situated in the footer of the panel and is enabled by default. This mode allows us to track the testing process more precisely and even control its speed.&#x20;
 
-The interactive mode gives a possibility to visualize the strategy’s actions using various panels of the Quantower terminal. The **Speed slider** slows down or makes faster the process of historical data playback. The lowest value of Speed pauses the strategy and activates the “per-tick” (actually per “Build from” value) playback button.
+The interactive mode gives a possibility to visualize the strategy’s actions using various panels of the VT-Terminal terminal. The **Speed slider** slows down or makes faster the process of historical data playback. The lowest value of Speed pauses the strategy and activates the “per-tick” (actually per “Build from” value) playback button.
 
 {% hint style="info" %}
 Please note, when you click the Stop button in backtesting mode, your strategy’s results will be erased and you won’t be able to access them anymore.
@@ -100,7 +100,7 @@ Please note, when you click the Stop button in backtesting mode, your strategy�
 
 When you launch your strategy in backtesting mode, the backtesting environment section converts to the Progress section. Here you can see the history playback progress bar and **Visualizer button** on the right side of each symbol row.&#x20;
 
-The Visualizer button allows us to open some Quantower panels and visually track the strategy operation during the history playback. The most interesting panels are Account performance, showing the trading results of your strategy, and Chart panel, which will display trades using a visual trading interface. You can also visualize the backtesting process in various panels such as Time\&Sales, DOM Surface, and TPO Chart, etc.&#x20;
+The Visualizer button allows us to open some VT-Terminal panels and visually track the strategy operation during the history playback. The most interesting panels are Account performance, showing the trading results of your strategy, and Chart panel, which will display trades using a visual trading interface. You can also visualize the backtesting process in various panels such as Time\&Sales, DOM Surface, and TPO Chart, etc.&#x20;
 
 ![Backtesting playback process](../.gitbook/assets/playback.png)
 
@@ -114,6 +114,6 @@ Using an interactive mode, the backtesting process has a limited maximum speed, 
 
 All automated trading strategies carry risk, even if the long-term profitability is positive. There is no perfect system, nor is there a system that always wins. Any investment in ATS carries great risks, and the performance shown should not blind the user from those risks. It is important to note that the worst losing streak of a system is most often yet to come, and can happen when the system is active in the user's account. The market circumstances can change from the period in which the system was designed, and the system’s rules which have given positive returns in the past can start giving negative returns.
 
-Quantower trading platform performs the execution of orders, sent by ATS for User’s account on a "not held" basis, meaning Quantower shall not be held responsible for the execution of the order at the price indicated or otherwise; and shall not be responsible for the performance of the ATS, including any potential trading losses the user may sustain as a result of the use of the ATS.
+Quantower trading platform performs the execution of orders, sent by ATS for User’s account on a "not held" basis, meaning VT-Terminal shall not be held responsible for the execution of the order at the price indicated or otherwise; and shall not be responsible for the performance of the ATS, including any potential trading losses the user may sustain as a result of the use of the ATS.
 
-In particular, Quantower is not responsible for any damages that may result from incorrect functioning of the ATS as well as any technical problem external to the Quantower trading platform.
+In particular, VT-Terminal is not responsible for any damages that may result from incorrect functioning of the ATS as well as any technical problem external to the VT-Terminal trading platform.

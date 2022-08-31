@@ -67,7 +67,7 @@ Local orders are also parent-related, meaning that each time you create an order
 
 You can track your active strategies for Local SL/TP in the [Order placing strategies panel](./#order-placing-strategies-panel). There you will find the strategy status and detailed logs about its operation.
 
-There is a possibility to see and manage Local orders in any Quantower panel as usual server-side orders. You will see a specific "Local" label placed alongside each local order in the Working orders, Chart, DOM trader, and other panels.
+There is a possibility to see and manage Local orders in any VT-Terminal panel as usual server-side orders. You will see a specific "Local" label placed alongside each local order in the Working orders, Chart, DOM trader, and other panels.
 
 ![](<../../../.gitbook/assets/image8 (1).png>)
 

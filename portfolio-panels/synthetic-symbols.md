@@ -15,7 +15,7 @@ description: >-
 
 Spread trading is a strategy that simultaneously creates a long and short position for different assets, in order to reduce the risk of the entire portfolio. Each side of the spread is called a "Leg", which is necessary to set the weighting factor for, i.e. the number of contracts for buy or sell. A market-neutral position, which does not depend on whether the market will go up or down is obtained with a proper selection of these coefficients.
 
-![General view of Synthetic Symbols in Quantower platform](../.gitbook/assets/synthetic-symbol-2021-06-21-18.53.16.png)
+![General view of Synthetic Symbols in VT-Terminal platform](../.gitbook/assets/synthetic-symbol-2021-06-21-18.53.16.png)
 
 ### How to Create a Custom Spread in Quantower?
 

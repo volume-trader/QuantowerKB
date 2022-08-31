@@ -6,9 +6,9 @@ description: >-
 
 # Symbols lookup
 
-Symbols lookup manager — is a special screen, allowing to search and select any available symbol from active connections. There are various panels in Quantower terminal, that require to have a Symbol parameter being set up \(Watchlist, Chart, Symbol info etc.\). Depending on the requirements, symbols lookup can allow single or multiple symbols selection. 
+Symbols lookup manager — is a special screen, allowing to search and select any available symbol from active connections. There are various panels in VT-Terminal terminal, that require to have a Symbol parameter being set up \(Watchlist, Chart, Symbol info etc.\). Depending on the requirements, symbols lookup can allow single or multiple symbols selection. 
 
-Each time you successfully connect with some integration, you will get a list of its symbols in Symbol lookup manager screen. Due to Quantower allows a multiple integrations connection, you may have several similar symbols with data, that can vary a bit. This is normal because different providers can give us different quotes data. 
+Each time you successfully connect with some integration, you will get a list of its symbols in Symbol lookup manager screen. Due to VT-Terminal allows a multiple integrations connection, you may have several similar symbols with data, that can vary a bit. This is normal because different providers can give us different quotes data. 
 
 ### Lookup field
 

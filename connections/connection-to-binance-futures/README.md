@@ -6,11 +6,11 @@ description: >-
 
 # Connection to Binance Futures
 
-To start trading on Binance Futures through Quantower platform, you need to open an account and create an **API Key** and **Secret Key**. In this guide, we will show you step-by-step how to set up the connection, change margin type and leverage size.
+To start trading on Binance Futures through VT-Terminal platform, you need to open an account and create an **API Key** and **Secret Key**. In this guide, we will show you step-by-step how to set up the connection, change margin type and leverage size.
 
 * ****[**How to create a new Binance Futures account**](./#how-to-create-a-new-binance-futures-account)****
-* ****[**How to connect to Binance Futures in Quantower platform**](./#how-to-connect-to-binance-futures-in-quantower-platform)****
-* ****[**How to get Full License of Quantower for free with Binance?**](./#how-to-get-full-license-of-quantower-for-free-with-binance)****
+* ****[**How to connect to Binance Futures in VT-Terminal platform**](./#how-to-connect-to-binance-futures-in-quantower-platform)****
+* ****[**How to get Full License of VT-Terminal for free with Binance?**](./#how-to-get-full-license-of-quantower-for-free-with-binance)****
 * ****[**How to change Leverage and Margin Type**](./#how-to-change-leverage-and-margin-type)****
 * ****[**How to load the history of past trades (for previous days)**](./#how-to-load-the-history-of-past-trades-for-previous-days)****
 * ****[**How to place Stop Loss and Take Profit for a position (server-side)**](./#how-to-place-stop-loss-and-take-profit-for-a-position-server-side)****
@@ -47,15 +47,15 @@ Go to the futures trading section and take the test to activate your futures acc
 
 ![](<../../.gitbook/assets/image (316).png>)
 
-## How to connect to Binance Futures in Quantower platform
+## How to connect to Binance Futures in VT-Terminal platform
 
-* Launch Quantower platform and open [Connections Manager](../connections-manager.md). Select Binance Futures in the list and select the type of connections — **INFO** or **TRADING** mode.
+* Launch VT-Terminal platform and open [Connections Manager](../connections-manager.md). Select Binance Futures in the list and select the type of connections — **INFO** or **TRADING** mode.
 
 ![](../../.gitbook/assets/connection-binance-futures.gif)
 
 * For trading, please enter your **API Key** and **Secret Key**.
 
-## How to get Full License of Quantower for free with Binance?
+## How to get Full License of VT-Terminal for free with Binance?
 
 {% hint style="danger" %}
 If you already have a binance account and it is older than **1 FEBRUARY  2021**, then you need to create a new account in order to use all the paid quantower features
@@ -79,7 +79,7 @@ Now select each group of cookies and press the “Remove” button. When there w
 
 ![Binance stores referral data in cookies](<../../.gitbook/assets/screenshot\_3 (3).png>)
 
-When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free.
+When you’ve created a new account with the Binance exchange you may log in using your new credentials via the VT-Terminal terminal and start using all of its premium features for free.
 
 ### How to check that your account has a Full license in Quantower?
 

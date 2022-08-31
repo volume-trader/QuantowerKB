@@ -6,11 +6,11 @@ description: >-
 
 # Connection to Binance Futures
 
-To start trading on Binance Futures through Quantower platform, you need to open an account and create an **API Key** and **Secret Key**. In this guide we will show you step-by-step how to set up the connection, change margin type and leverage size.
+To start trading on Binance Futures through VT-Terminal platform, you need to open an account and create an **API Key** and **Secret Key**. In this guide we will show you step-by-step how to set up the connection, change margin type and leverage size.
 
-* \*\*\*\*[**How to connect to Binance Futures in Quantower platform**](connection-to-binance-futures.md#how-to-connect-to-binance-futures-in-quantower-platform)\*\*\*\*
+* \*\*\*\*[**How to connect to Binance Futures in VT-Terminal platform**](connection-to-binance-futures.md#how-to-connect-to-binance-futures-in-quantower-platform)\*\*\*\*
 * \*\*\*\*[**How to change Leverage and Margin Type**](connection-to-binance-futures.md#how-to-change-leverage-and-margin-type)\*\*\*\*
-* \*\*\*\*[**How to get Full License of Quantower for free with Binance?**](connection-to-binance-futures.md#how-to-get-full-license-of-quantower-for-free-with-binance)\*\*\*\*
+* \*\*\*\*[**How to get Full License of VT-Terminal for free with Binance?**](connection-to-binance-futures.md#how-to-get-full-license-of-quantower-for-free-with-binance)\*\*\*\*
 * \*\*\*\*[**Possible Errors with Binance Futures connection**](connection-to-binance-futures.md#possible-errors-with-binance-futures-connection)\*\*\*\*
 
 ## How to create a new Binance Futures account
@@ -36,9 +36,9 @@ Please activate it and after you can connect to Binance Futures in Quantower
 
 ![](../.gitbook/assets/image%20%2890%29.png)
 
-## How to connect to Binance Futures in Quantower platform
+## How to connect to Binance Futures in VT-Terminal platform
 
-* Launch Quantower platform and open [Connections Manager](connections-manager.md). Select Binance Futures in the list and select the type of connections — **INFO** or **TRADING** mode.
+* Launch VT-Terminal platform and open [Connections Manager](connections-manager.md). Select Binance Futures in the list and select the type of connections — **INFO** or **TRADING** mode.
 
 ![](../.gitbook/assets/connection-binance-futures.gif)
 
@@ -66,7 +66,7 @@ To enable these functions, you need to make at least 1 trade for current symbol.
 
 ![Make one trade to activate Leverage and Margin type for Binance Futures in Quantower](../.gitbook/assets/symbol-info-binance-futures.png)
 
-## How to get Full License of Quantower for free with Binance?
+## How to get Full License of VT-Terminal for free with Binance?
 
 First, you need to register a new account on Binance exchange, that wouldn’t be connected with any referral previously. In order to do this, please follow the [https://accounts.binance.com/en/register](https://accounts.binance.com/en/register) link and fill in the registration form.
 
@@ -86,7 +86,7 @@ Now select each group of cookies and press the “Remove” button. When there w
 
 ![Binance stores referral data in cookies](../.gitbook/assets/screenshot_3%20%283%29.png)
 
-When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free.
+When you’ve created a new account with the Binance exchange you may log in using your new credentials via the VT-Terminal terminal and start using all of its premium features for free.
 
 ## Possible Errors with Binance Futures connection
 
@@ -107,7 +107,7 @@ To solve it, please check that your API Key has permissions for Futures trading.
 
 **"TimeStamp"** error occurs when the time on the Binance server does not match the time on the user's computer.
 
-![Binance Futures error in Quantower - Timestamp for the request](../.gitbook/assets/image%20%2889%29.png)
+![Binance Futures error in VT-Terminal - Timestamp for the request](../.gitbook/assets/image%20%2889%29.png)
 
 To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and click on **Sync Now** button**.**
 

@@ -1,11 +1,11 @@
 ---
 description: >-
-  Here you’ll find all the detailed documentation for Quantower features, learn
+  Here you’ll find all the detailed documentation for VT-Terminal features, learn
   how to create and customize your Workspace, understand all settings, get to
   know advanced features, and more
 ---
 
-# Welcome to Quantower Help
+# Welcome to VT-Terminal Help
 
 ![](.gitbook/assets/main-workspace-for-help.png)
 

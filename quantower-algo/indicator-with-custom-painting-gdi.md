@@ -6,7 +6,7 @@ description: Draw any graphical objects on the chart using the GDI+ library
 
 ## Introduction
 
-In this topic, we will show you how to use a really great possibility of scripts in Quantower — a custom painting on the Chart. You can draw anything you need via GDI+ — a graphical subsystem of Windows. In C# all features from GDI+ are encapsulated in class Graphics. It is a set of functions allowing to create graphical primitives and splines using brushes and pens, Images, etc. More information you can find on the [Microsoft documentation site](https://docs.microsoft.com/ru-ru/dotnet/api/system.drawing.graphics?redirectedfrom=MSDN\&view=netframework-4.7.2).
+In this topic, we will show you how to use a really great possibility of scripts in VT-Terminal — a custom painting on the Chart. You can draw anything you need via GDI+ — a graphical subsystem of Windows. In C# all features from GDI+ are encapsulated in class Graphics. It is a set of functions allowing to create graphical primitives and splines using brushes and pens, Images, etc. More information you can find on the [Microsoft documentation site](https://docs.microsoft.com/ru-ru/dotnet/api/system.drawing.graphics?redirectedfrom=MSDN\&view=netframework-4.7.2).
 
 ## Access Graphics object
 

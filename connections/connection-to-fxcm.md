@@ -6,7 +6,7 @@ description: >-
 
 # Connection to FXCM
 
-To connect Quantower to FXCM broker, you need to activate unique Token API. Below we have described the step-by-step process of getting a token.
+To connect VT-Terminal to FXCM broker, you need to activate unique Token API. Below we have described the step-by-step process of getting a token.
 
 {% embed url="https://youtu.be/U5luFf-pQXU" %}
 
@@ -25,7 +25,7 @@ To connect Quantower to FXCM broker, you need to activate unique Token API. Belo
 
 ![](../.gitbook/assets/token.png)
 
-* Open **Connection Manager** in Quantower and select FXCM broker. Choose Demo or Real, paste Token key and click Connect button.
+* Open **Connection Manager** in VT-Terminal and select FXCM broker. Choose Demo or Real, paste Token key and click Connect button.
 
 ![](../.gitbook/assets/connections.png)
 

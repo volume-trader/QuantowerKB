@@ -4,15 +4,15 @@ description: >-
   a trial period
 ---
 
-# Quantower Account
+# VT-Terminal Account
 
-Quantower account \(Account\) is a part of Licensing functionality. It is required to bind a paid licenses for Quantower software and its add-ons per account holder.
+Quantower account \(Account\) is a part of Licensing functionality. It is required to bind a paid licenses for VT-Terminal software and its add-ons per account holder.
 
 {% hint style="info" %}
 Actually, you don’t require to have an Account while using a **Free version** of Quantower.
 {% endhint %}
 
-Once you start using some paid feature, you will be asked to Login to your Account, so Quantower could verify whether you have the permission to use it. From this moment you can cancel the authorization process or proceed to log in. Once canceled you just won’t be able to use that paid feature. If you decide to log in, you need to have an Account and one of the paid licenses bound with it.
+Once you start using some paid feature, you will be asked to Login to your Account, so VT-Terminal could verify whether you have the permission to use it. From this moment you can cancel the authorization process or proceed to log in. Once canceled you just won’t be able to use that paid feature. If you decide to log in, you need to have an Account and one of the paid licenses bound with it.
 
 {% embed url="https://www.youtube.com/watch?v=sQVm6Pikz1E" %}
 
@@ -20,7 +20,7 @@ Once you start using some paid feature, you will be asked to Login to your Accou
 
 There are two ways to get yourself an Account: 
 
-* proceed to Log in when you have been asked for in Quantower application; 
+* proceed to Log in when you have been asked for in VT-Terminal application; 
 * go to [https://accounts.quantower.com](https://accounts.quantower.com) via your favorite browser.
 
 
@@ -47,5 +47,5 @@ You can manage your account after registration in your personal cabinet — [htt
 
 ## Account removal
 
-You can apply for removing your account by contacting Quantower Support via any applicable way: [https://www.quantower.com/contact-us](https://www.quantower.com/contact-us).
+You can apply for removing your account by contacting VT-Terminal Support via any applicable way: [https://www.quantower.com/contact-us](https://www.quantower.com/contact-us).
 

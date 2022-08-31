@@ -1,7 +1,7 @@
 ---
 description: >-
   Placing a different type of orders, modifying and canceling them using
-  Quantower API
+  VT-Terminal API
 ---
 
 # Trading operations

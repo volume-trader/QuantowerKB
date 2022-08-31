@@ -1,7 +1,7 @@
 ---
 description: >-
   RSS (News panel) was developed in order to allow traders to watch the news
-  feeds right inside the Quantower platform.
+  feeds right inside the VT-Terminal platform.
 ---
 
 # RSS (News panel)

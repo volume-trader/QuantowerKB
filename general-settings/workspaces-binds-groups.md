@@ -36,4 +36,4 @@ When creating the new workspace, you have an ability to specify its future name 
 The list of Workspace templates will be constantly growing.&#x20;
 {% endhint %}
 
-You can also Remove any of Workspaces by clicking the “_**Trash**_” icon on the right side from Workspace name (icon appears while hovering the name).
+You can also Remove any of Workspaces by clicking the “_**Trash**_” icon on the right side from Workspace name (icon appears while hovering the name).

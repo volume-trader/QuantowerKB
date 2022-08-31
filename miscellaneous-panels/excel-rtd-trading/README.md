@@ -4,7 +4,7 @@ description: How to export Real-Time data to Exel
 
 # Excel and RTD function
 
-Start from version 1.39 Quantower supports **Real-Time Data (RTD)** for sending data and other market information to Microsoft Excel®. This feature opens up many opportunities for creating custom displays and other ways to better manage your workflow.&#x20;
+Start from version 1.39 VT-Terminal supports **Real-Time Data (RTD)** for sending data and other market information to Microsoft Excel®. This feature opens up many opportunities for creating custom displays and other ways to better manage your workflow.&#x20;
 
 
 
@@ -18,7 +18,7 @@ Here is the General Syntax for getting symbol info via RTD function:
 
 {% embed url="https://www.youtube.com/watch?v=k1pbtSadX8I" %}
 
-## **How to activate RTD function in Quantower platform**
+## **How to activate RTD function in VT-Terminal platform**
 
 {% hint style="warning" %}
 For the function to work properly, **Quantower platform and Excel must have the same version — 64 or 32 bit**
@@ -66,7 +66,7 @@ RTD formula uses the following basic structure:
 ```
 
 {% hint style="info" %}
-The second parameter is the name of the external server running the RTD Server. As the Quantower RTD Server always runs locally, you must omit a value for the second parameter or supply an empty string (“”). However, you must account for the parameter in the formula.
+The second parameter is the name of the external server running the RTD Server. As the VT-Terminal RTD Server always runs locally, you must omit a value for the second parameter or supply an empty string (“”). However, you must account for the parameter in the formula.
 {% endhint %}
 
 ### Examples of the most popular RTD formulas with description&#x20;
@@ -89,7 +89,7 @@ Provides access to specific symbol information such as Description, **ExchangeNa
 
 | Options               | Description                                                                                                                                         |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **"TradingPlatform"** | Quantower RTD server name. You can use it in all formulas.                                                                                          |
+| **"TradingPlatform"** | VT-Terminal RTD server name. You can use it in all formulas.                                                                                          |
 | **"GetSymbolInfo"**   | Name of method                                                                                                                                      |
 | **"BTCUSDT"**         | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
 | **"SymbolType"**      | Specifies the type of data you want to receive. For example: Name, Description.                                                                     |
@@ -113,7 +113,7 @@ _**Options**_
 
 | _**Options**_         | Description                                                                                                                                         |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **"TradingPlatform"** | Quantower RTD server name. You can use it in all formulas.                                                                                          |
+| **"TradingPlatform"** | VT-Terminal RTD server name. You can use it in all formulas.                                                                                          |
 | **"GetMarketData"**   | Name of method                                                                                                                                      |
 | **"BTCUSDT"**         | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
 | **"Bid"**             | Specifies the type of data you want to receive. For example: Bid, Ask, Last, Open, High                                                             |
@@ -133,7 +133,7 @@ _**Options**_
 
 | _**Options**_         | Description                                                                                                                                         |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **"TradingPlatform"** | Quantower RTD server name. You can use it in all formulas.                                                                                          |
+| **"TradingPlatform"** | VT-Terminal RTD server name. You can use it in all formulas.                                                                                          |
 | **"GetLevel2Data"**   | Name of method                                                                                                                                      |
 | **"BTCUSDT"**         | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
 | **"BidSize"**         | Указанный тип данных, которые вы хотите получать. Например: Bid, Ask, BidSize, AskSize.                                                             |
@@ -162,7 +162,7 @@ _**Options**_
 
 | _**Options**_         | _Описание_                                                                                                                                          |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **"TradingPlatform"** | Quantower RTD server name. You can use it in all formulas.                                                                                          |
+| **"TradingPlatform"** | VT-Terminal RTD server name. You can use it in all formulas.                                                                                          |
 | **"GetHistory"**      | Name of method                                                                                                                                      |
 | **"BTCUSDT"**         | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
 | **"1Day"**            | Aggregation type: 1 day, 3 days, 5 minutes, etc. Available aggregates:Tick, Second, Minute, Hour, Day, Week, Month, Year.                           |
