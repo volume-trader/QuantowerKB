@@ -43,7 +43,7 @@ The Sidebar consists of panels icons, grouped by the functionality. Each group c
 
 The footer of Sidebar contains several functions:
 
-* “**About**” link: opens a screen with information about terminal \(version, rollback, updates checker etc.\). If the system detects the new version of Quantower, the “NEW VERSION” button appears instead of this link;
+* “**About**” link: opens a screen with information about terminal \(version, rollback, updates checker etc.\). If the system detects the new version of VT-Terminal, the “NEW VERSION” button appears instead of this link;
 * “**Exit**” button: closes the application.
 
 {% hint style="info" %}
@@ -85,7 +85,7 @@ This feature is useful in case you would like to only analyze the market or whil
 
 ### Workspaces manager
 
-{% embed url="https://www.youtube.com/watch?v=A\_2gJdeP-08&t=20s" caption="Create and save your workspace in Quantower" %}
+{% embed url="https://www.youtube.com/watch?v=A\_2gJdeP-08&t=20s" caption="Create and save your workspace in VT-Terminal" %}
 
 **Workspaces manager** allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.
 

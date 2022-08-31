@@ -16,7 +16,7 @@ Here is the list of the most common errors and issues with IB connection:
 
 ## Error "No market data permissions for NYSE STK"
 
-In order to receive market data for charts and quote lines within Quantower, it is necessary you are subscribed to the exchange that the Symbol is listed on. If market data is not subscribed, you will see error messages similar to the following:
+In order to receive market data for charts and quote lines within VT-Terminal, it is necessary you are subscribed to the exchange that the Symbol is listed on. If market data is not subscribed, you will see error messages similar to the following:
 
 ![](../../.gitbook/assets/image%20%28317%29.png)
 

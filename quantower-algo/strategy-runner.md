@@ -1,6 +1,6 @@
 ---
 description: >-
-  In order to make some automated trading via Quantower, you need to use the
+  In order to make some automated trading via VT-Terminal, you need to use the
   Strategy runner panel. The main purpose of this panel is to launch a trading
   strategy and control its behavior.
 ---
@@ -114,6 +114,6 @@ Using an interactive mode, the backtesting process has a limited maximum speed, 
 
 All automated trading strategies carry risk, even if the long-term profitability is positive. There is no perfect system, nor is there a system that always wins. Any investment in ATS carries great risks, and the performance shown should not blind the user from those risks. It is important to note that the worst losing streak of a system is most often yet to come, and can happen when the system is active in the user's account. The market circumstances can change from the period in which the system was designed, and the system’s rules which have given positive returns in the past can start giving negative returns.
 
-Quantower trading platform performs the execution of orders, sent by ATS for User’s account on a "not held" basis, meaning VT-Terminal shall not be held responsible for the execution of the order at the price indicated or otherwise; and shall not be responsible for the performance of the ATS, including any potential trading losses the user may sustain as a result of the use of the ATS.
+VT-Terminal trading platform performs the execution of orders, sent by ATS for User’s account on a "not held" basis, meaning VT-Terminal shall not be held responsible for the execution of the order at the price indicated or otherwise; and shall not be responsible for the performance of the ATS, including any potential trading losses the user may sustain as a result of the use of the ATS.
 
 In particular, VT-Terminal is not responsible for any damages that may result from incorrect functioning of the ATS as well as any technical problem external to the VT-Terminal trading platform.

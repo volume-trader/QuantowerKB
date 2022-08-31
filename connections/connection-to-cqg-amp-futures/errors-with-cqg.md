@@ -1,6 +1,6 @@
 ---
 description: >-
-  Here we described the possible errors with CQG connection in Quantower
+  Here we described the possible errors with CQG connection in VT-Terminal
   platform
 ---
 

@@ -21,7 +21,7 @@ Here is the General Syntax for getting symbol info via RTD function:
 ## **How to activate RTD function in VT-Terminal platform**
 
 {% hint style="warning" %}
-For the function to work properly, **Quantower platform and Excel must have the same version — 64 or 32 bit**
+For the function to work properly, **VT-Terminal platform and Excel must have the same version — 64 or 32 bit**
 {% endhint %}
 
 Launch Excel and after open the Task Manager to check the version of Excel (32-bit or 64-bit). The platform should have the same version in order to work with RTD function correctly.
@@ -30,14 +30,14 @@ Launch Excel and after open the Task Manager to check the version of Excel (32-b
 
 Go to the [**General Settings**](../../general-settings/general-settings-1.md) of the platform, then to _section **Excel RTD**_ and tick off _**"Enable Microsoft Excel RTD"**_
 
-![Activation of RTD function in Quantower](../../.gitbook/assets/assets\_-ld6fsrvq3jgwjig6o7r\_-lme4wbmrbk0ai3rafld\_-lmeyazmdvqpbsftpr9b\_rtd.png)
+![Activation of RTD function in VT-Terminal](../../.gitbook/assets/assets\_-ld6fsrvq3jgwjig6o7r\_-lme4wbmrbk0ai3rafld\_-lmeyazmdvqpbsftpr9b\_rtd.png)
 
 Also in the settings, there are two important settings:
 
 * **Custom RTD formula name** — depending on the language of your operating system, the name of the RTD function in Excel may be called differently. The original name of the function in the English version of Excel is RTD, but for the Russian version it's called "ДРВ".
 * **Custom argument separator** — the separator that participates in the formula. It depends on the localization of your operating system. Get to know [how to check argument separator in your system](./#how-to-check-argument-separator).
 
-## How to get the instrument data from Quantower?
+## How to get the instrument data from VT-Terminal?
 
 ### 1. Getting data through copying a formula
 

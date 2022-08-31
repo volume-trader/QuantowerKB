@@ -9,10 +9,10 @@ description: >-
 The highest level of trading area organization — is a **Workspace**. This is the most general grouping layer that you may even don’t need most of the time.
 
 {% hint style="success" %}
-**Quantower auto-saves each workspace** into its local file every 5 mins, in order to keep them safe.
+**VT-Terminal auto-saves each workspace** into its local file every 5 mins, in order to keep them safe.
 {% endhint %}
 
-As a top-level grouping layer, Workspaces store all their contents in special local files. These files can be found in _**Quantower -> Settings -> Workspaces**_ folder. Each file represents some workspace; both have the similar names. Technically, the workspace file is an XML-document containing all of the settings of all panels that are in the workspace.&#x20;
+As a top-level grouping layer, Workspaces store all their contents in special local files. These files can be found in _**VT-Terminal -> Settings -> Workspaces**_ folder. Each file represents some workspace; both have the similar names. Technically, the workspace file is an XML-document containing all of the settings of all panels that are in the workspace.&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=A_2gJdeP-08&t=20s" %}
 How to create and save your custom workspace

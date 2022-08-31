@@ -8,7 +8,7 @@ description: >-
 
 ## General
 
-You can find a new Sessions manager screen in the Miscellaneous section of Quantower's control center. Once launched, you will see a table where VT-Terminal will display the list of custom sessions assignments. Initially, it is empty, meaning that VT-Terminal will use the sessions data coming from the symbols vendor. Generally, Sessions manager functionality is based on the work with sessions templates - creation and assignment - so its flow is simple: create a template and then assign it to some symbol (exchange, connection).
+You can find a new Sessions manager screen in the Miscellaneous section of VT-Terminal's control center. Once launched, you will see a table where VT-Terminal will display the list of custom sessions assignments. Initially, it is empty, meaning that VT-Terminal will use the sessions data coming from the symbols vendor. Generally, Sessions manager functionality is based on the work with sessions templates - creation and assignment - so its flow is simple: create a template and then assign it to some symbol (exchange, connection).
 
 ![Launch Sessions Manager panel](<../.gitbook/assets/image (1) (2).png>)
 
@@ -41,7 +41,7 @@ To assign previously created templates to some symbol, you need to call the Sess
 
 ![Sessions manager screen](../.gitbook/assets/image4.png)
 
-Next, select the Sessions template to assign and click the "Assign" button. From this moment, you will find a new row in a Sessions manager screen, stating that there is an active custom sessions assignment available in your Quantower. Here you can:&#x20;
+Next, select the Sessions template to assign and click the "Assign" button. From this moment, you will find a new row in a Sessions manager screen, stating that there is an active custom sessions assignment available in your VT-Terminal. Here you can:&#x20;
 
 * quickly Enable/Disable this assignment (using the checkbox) and see how the corresponding Status column value changes;&#x20;
 * open the assignment parameters;&#x20;
@@ -91,5 +91,5 @@ As an example, let's set the time of RTH and ETH sessions for CME Indexes:
 
 * Apply or switch between different sessions on desired panels (chart, DOM trader, TPO etc.). Just open the panel's settings and find the <mark style="background-color:blue;">**Custom session**</mark> parameter (usually in the General section).
 
-![Select different session templates in Quantower](<../.gitbook/assets/image (354).png>)
+![Select different session templates in VT-Terminal](<../.gitbook/assets/image (354).png>)
 

@@ -8,5 +8,5 @@ Each update of VT-Terminal includes the addition of new features, bug fixes and 
 
 For a detailed overview of what has changed in each update, please see the Release Notes on our website:
 
-* ****[**Quantower Release Notes**](https://www.quantower.com/release-notes)****
-* ****[**Quantower Blog**](https://www.quantower.com/blog)****
+* ****[**VT-Terminal Release Notes**](https://www.quantower.com/release-notes)****
+* ****[**VT-Terminal Blog**](https://www.quantower.com/blog)****

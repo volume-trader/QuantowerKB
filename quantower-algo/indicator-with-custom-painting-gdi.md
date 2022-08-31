@@ -97,7 +97,7 @@ public override void OnPaintChart(PaintChartEventArgs args)
 }
 ```
 
-And this is how our chart looks now. You can compare results with Market Depth panel in Quantower:
+And this is how our chart looks now. You can compare results with Market Depth panel in VT-Terminal:
 
 ![Display bids and asks on the chart](../.gitbook/assets/level2.png)
 

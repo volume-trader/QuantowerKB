@@ -35,7 +35,7 @@ To start trading on Binance Futures through VT-Terminal platform, you need to op
 
 Once you will create an API key, please click on the **Wallet** menu and select **Futures** section. After confirming the opening of a futures account, an additional option will appear for your key, which is called **Enable Futures**.
 
-Please activate it and after you can connect to Binance Futures in Quantower
+Please activate it and after you can connect to Binance Futures in VT-Terminal
 
 ![](<../../.gitbook/assets/image (87).png>)
 
@@ -81,7 +81,7 @@ Now select each group of cookies and press the “Remove” button. When there w
 
 When you’ve created a new account with the Binance exchange you may log in using your new credentials via the VT-Terminal terminal and start using all of its premium features for free.
 
-### How to check that your account has a Full license in Quantower?
+### How to check that your account has a Full license in VT-Terminal?
 
 Once you created a new account with Binance Spot, Binance Futures, please login to the platform in trading mode with your API Keys. After that, open **** [**Account Info** panel](../../informational-panels/account-info.md) and check that the field **Full license is Enabled**.
 
@@ -107,7 +107,7 @@ For new accounts on which no trades were made, it is **not possible to change th
 To enable these functions, you need to make at least 1 trade for current symbol. After that, please restart the platform and these features will be available.
 {% endhint %}
 
-![Make one trade to activate Leverage and Margin type for Binance Futures in Quantower](../../.gitbook/assets/symbol-info-binance-futures.png)
+![Make one trade to activate Leverage and Margin type for Binance Futures in VT-Terminal](../../.gitbook/assets/symbol-info-binance-futures.png)
 
 ## **How to load the history of past trades (for previous days)**
 

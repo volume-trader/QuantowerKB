@@ -40,7 +40,7 @@ Most settings are applied automatically, once you change them, but, in some case
 * Light Gold
 * Light Water
 
-![Coloring themes in Quantower](../.gitbook/assets/themes.gif)
+![Coloring themes in VT-Terminal](../.gitbook/assets/themes.gif)
 
 **Language (beta)** — VT-Terminal supports 17 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual on [how to make changes in the selected language](https://help.quantower.com/customization/localization).
 
@@ -82,7 +82,7 @@ Sounds are a good way of additional interaction with user allowing to inform abo
 
 **Enable sounds** — activates or disables all of the application sounds globally
 
-The group of actions in Quantower, when the sound should be played consists of the most vital situations in application usage. This list is not final and can be extended or changed later. Each option has a set of controls: 
+The group of actions in VT-Terminal, when the sound should be played consists of the most vital situations in application usage. This list is not final and can be extended or changed later. Each option has a set of controls: 
 
 * enable/disable checkbox
 * action name
@@ -113,13 +113,13 @@ In Time zone settings group you can select what time zones are your favorite and
 
 ## Excel RTD
 
-Start from version 1.39 VT-Terminal supports RealTimeData (RTD) for sending data and other market information to Microsoft Excel®. Read our guide about [how to enable and use RTD function with Quantower](../miscellaneous-panels/excel-rtd-trading/).
+Start from version 1.39 VT-Terminal supports RealTimeData (RTD) for sending data and other market information to Microsoft Excel®. Read our guide about [how to enable and use RTD function with VT-Terminal](../miscellaneous-panels/excel-rtd-trading/).
 
 ![RTD function in VT-Terminal trading platform](<../.gitbook/assets/image (66).png>)
 
 ## Messengers
 
-Quantower Alert Bot will send a message to your Telegram account about all events that you set in the platform. For example, set a price alert on the chart, and when the price will reach this level, a notification to the messenger will be sent.
+VT-Terminal Alert Bot will send a message to your Telegram account about all events that you set in the platform. For example, set a price alert on the chart, and when the price will reach this level, a notification to the messenger will be sent.
 
 ![](../.gitbook/assets/telegram-alerts.gif)
 

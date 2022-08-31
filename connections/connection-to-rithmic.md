@@ -24,9 +24,9 @@ To connect VT-Terminal to a broker that uses Rithmic technology, it is sufficien
 ![Enter login data for connection to Rithmic](../.gitbook/assets/rithmic-connection.png)
 
 {% hint style="info" %}
-Starting from May 1, the [CME exchange сhanged the rules for determining a professional market participant](http://yyy3.rithmic.com/?p=1069), and as a result, increased the fee for the market data. In order to correctly define the professional participant, Ritmic has changed the connection parameters in their platform, as well as in API for platforms such as Quantower.
+Starting from May 1, the [CME exchange сhanged the rules for determining a professional market participant](http://yyy3.rithmic.com/?p=1069), and as a result, increased the fee for the market data. In order to correctly define the professional participant, Ritmic has changed the connection parameters in their platform, as well as in API for platforms such as VT-Terminal.
 
-To avoid additional fees for subscription to market data, a trader needs to login through the R Trader Pro platform and activate the setting in Quantower, which is called **Use RTrader**.
+To avoid additional fees for subscription to market data, a trader needs to login through the R Trader Pro platform and activate the setting in VT-Terminal, which is called **Use RTrader**.
 {% endhint %}
 
 ![Activate Use RTrader option to avoid additonal fees for subscription to market data](../.gitbook/assets/rithmic-plugin.gif)
@@ -66,9 +66,9 @@ Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market 
 This error message is most commonly encountered by _**new Rithmic users for various reasons**_ and is not within the control of the VT-Terminal platform.&#x20;
 {% endhint %}
 
-![Rithmic error "Market Data Connection Closed" in Quantower](../.gitbook/assets/connections-error-with-rithmic.png)
+![Rithmic error "Market Data Connection Closed" in VT-Terminal](../.gitbook/assets/connections-error-with-rithmic.png)
 
-![Rithmic error "Market Data Connection Broken" in Quantower](<../.gitbook/assets/image (348) (1) (1) (1).png>)
+![Rithmic error "Market Data Connection Broken" in VT-Terminal](<../.gitbook/assets/image (348) (1) (1) (1).png>)
 
 #### Connection to Rithmic can be done in two ways:
 
@@ -90,7 +90,7 @@ More often such error occurs for the following reasons:
     _**Solution:**_ _open RTrader Pro platform and connect with your login. If the connection is successful, then your account is active in Rithmic system_
 *   Make sure that your login matches the Demo or Real connection&#x20;
 
-    _**Solution:**_ try both connection options in Quantower
+    _**Solution:**_ try both connection options in VT-Terminal
 
 ![](<../.gitbook/assets/image (355) (1) (1) (1) (1) (1) (1).png>)
 
@@ -98,11 +98,11 @@ More often such error occurs for the following reasons:
 
     _**Solution (several different options, not step-by-step):**_
 
-    _1) start RTrader Pro platform with **Allow Plugins** mode and connect again to your account in Quantower_
+    _1) start RTrader Pro platform with **Allow Plugins** mode and connect again to your account in VT-Terminal_
 
-    _2) try to connect to Rithmic as a direct connection: close RTrader Pro platform, disable **Use Rtrader** option in VT-Terminal settings and restart Quantower. After start VT-Terminal again and connect to your account as a direct connection_
+    _2) try to connect to Rithmic as a direct connection: close RTrader Pro platform, disable **Use Rtrader** option in VT-Terminal settings and restart VT-Terminal. After start VT-Terminal again and connect to your account as a direct connection_
 
-![Plugin Mode in RTrader Pro is disabled but active in Quantower](<../.gitbook/assets/image (351) (1) (1).png>)
+![Plugin Mode in RTrader Pro is disabled but active in VT-Terminal](<../.gitbook/assets/image (351) (1) (1).png>)
 
 *   In the case of a direct connection (without RTrader Plugin mode), you cannot use the same login on different platforms at the same time. The connection can be only one login on one platform (!).&#x20;
 

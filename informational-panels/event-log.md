@@ -1,5 +1,5 @@
 ---
-description: This panel displays all events happening in Quantower.
+description: This panel displays all events happening in VT-Terminal.
 ---
 
 # Event Log

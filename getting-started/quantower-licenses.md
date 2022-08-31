@@ -12,7 +12,7 @@ We deliver the most popular trading and analytics functionality for free, but so
 In case of any problems with your VT-Terminal Account or License purchase — please [contact our Support team](https://www.quantower.com/contact-us)
 {% endhint %}
 
-To use any paid License, the trader needs to have an active [Quantower Account](quantower-account.md). If you don’t have one, you can create it during your License purchase process.
+To use any paid License, the trader needs to have an active [VT-Terminal Account](quantower-account.md). If you don’t have one, you can create it during your License purchase process.
 
 {% embed url="https://www.youtube.com/watch?v=sQVm6Pikz1E" %}
 
@@ -62,7 +62,7 @@ We offer a user with a Free license, three packages as well as licenses for sepa
 
 If you would like to upgrade your Free license, go to our [Pricing page](https://www.quantower.com/pricing), choose the necessary license, it's period and click on the **BUY** button.
 
-The purchase process starts with the authorization in the VT-Terminal service. Use your email and password to Sign in to the account. If you don’t have one yet, follow the instructions on [Quantower Account manual](quantower-account.md). Just after you successfully Log in, you will be redirected to the purchase Cart.
+The purchase process starts with the authorization in the VT-Terminal service. Use your email and password to Sign in to the account. If you don’t have one yet, follow the instructions on [VT-Terminal Account manual](quantower-account.md). Just after you successfully Log in, you will be redirected to the purchase Cart.
 
 Purchase cart contains the previously selected License type, term of validity and final Price. You can modify the term of validity to any desired option.
 

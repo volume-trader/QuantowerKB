@@ -49,7 +49,7 @@ The entire panel is conventionally divided into several **zones**:
 * order placing strategy for advanced trading algorithms
 * information on current Ask and Bid prices, spread size, as well as an order placement button
 
-## CQG OrderTypes, Time in Force (TIF), Algorithmic in Quantower
+## CQG OrderTypes, Time in Force (TIF), Algorithmic in VT-Terminal
 
 CQG provides various order types for trading via the Order Entry panel:
 

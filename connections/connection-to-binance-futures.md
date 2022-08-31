@@ -30,7 +30,7 @@ To start trading on Binance Futures through VT-Terminal platform, you need to op
 
 Once you will create an API key, please click on the **Wallet** menu and select **Futures** section. After confirming the opening of a futures account, an additional option will appear for your key, which is called **Enable Futures**.
 
-Please activate it and after you can connect to Binance Futures in Quantower
+Please activate it and after you can connect to Binance Futures in VT-Terminal
 
 ![](../.gitbook/assets/image%20%2887%29.png)
 
@@ -64,7 +64,7 @@ For new accounts on which no trades were made, it is **not possible to change th
 To enable these functions, you need to make at least 1 trade for current symbol. After that, please restart the platform and these features will be available.
 {% endhint %}
 
-![Make one trade to activate Leverage and Margin type for Binance Futures in Quantower](../.gitbook/assets/symbol-info-binance-futures.png)
+![Make one trade to activate Leverage and Margin type for Binance Futures in VT-Terminal](../.gitbook/assets/symbol-info-binance-futures.png)
 
 ## How to get Full License of VT-Terminal for free with Binance?
 

@@ -4,7 +4,7 @@
 
 **Line Break** is quite similar to other time-independent charts like Kagi, P & F, Range Bars. Line break chart prints the series of bars which represent increasing and falling prices. The key parameter that participates in the chart plotting is the number of the last bars for building the current bar.
 
-![General view of Line Break chart in Quantower](../../../.gitbook/assets/line-break-chart-general-view.png)
+![General view of Line Break chart in VT-Terminal](../../../.gitbook/assets/line-break-chart-general-view.png)
 
 It is important to note that the bars on this chart are usually called "lines". Line Break based on closing prices so it takes the current price and compares it with the closing prices of the previous bars \(lines\). The number of the previous bars that participate in the calculation specified in the chart settings.
 

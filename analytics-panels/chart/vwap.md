@@ -37,7 +37,7 @@ By clicking on the "**Gear"** icon, additional settings will open.&#x20;
 
 **1. Switch between different VWAPs** and set the settings for each of them&#x20;
 
-Quantower platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.
+VT-Terminal platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.
 
 **2.** Set the **Main Settings** for the VWAP line:
 

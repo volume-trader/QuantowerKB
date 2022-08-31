@@ -6,7 +6,7 @@ description: >-
 
 # VT-Terminal Telegram Bot
 
-Quantower Alert Bot will send a message to your Telegram account about all events that you set in the platform. For example, set a price alert on the chart, and when the price will reach this level, a notification to the messenger will be sent.
+VT-Terminal Alert Bot will send a message to your Telegram account about all events that you set in the platform. For example, set a price alert on the chart, and when the price will reach this level, a notification to the messenger will be sent.
 
 ![](../.gitbook/assets/telegram-alerts.gif)
 

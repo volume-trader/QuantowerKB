@@ -6,7 +6,7 @@ description: Access to collection of additional fields
 
 ## Theory
 
-Quantower terminal contains lot of useful panels. There are complex panels that display data and allow you to manipulate it. But also, there are simple panels that simply display data. For example, **Symbol Info** and **Account info** panels. Their goal is to provide all available information on the selected symbol and account.
+VT-Terminal terminal contains lot of useful panels. There are complex panels that display data and allow you to manipulate it. But also, there are simple panels that simply display data. For example, **Symbol Info** and **Account info** panels. Their goal is to provide all available information on the selected symbol and account.
 
 The VT-Terminal API divides the information they display into two categories - **basic** information and **additional** information.
 
@@ -14,7 +14,7 @@ The VT-Terminal API divides the information they display into two categories - *
 
 The basic information includes fields without which the selected object cannot exist. For successfull integration with Quntower each broker must provide these fields. For example, each symbol must have **Id**, **Name**, **Tick size**, **Product/Quoting currencies,** **Min lot** etc. Also each account must have **Id**, **Name**, **Balance**, **Asset** etc.
 
-Quantower API supports [**Symbol** ](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Symbol.html)and [**Account**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html) **** classes and you can get all the basic information using their properties members.
+VT-Terminal API supports [**Symbol** ](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Symbol.html)and [**Account**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html) **** classes and you can get all the basic information using their properties members.
 
 ### Additional information
 

@@ -48,7 +48,7 @@ To delete a trading symbol, you need to select the required symbol and click on 
 
 ### Symbol settings
 
-To correctly perform the backtesting, you need to configure parameters of the symbol that you want to load. If the requiring history refers to the existing trade symbol in Quantower, then the settings can be simply borrowed by pressing _**“Get from real symbol”**_ button.
+To correctly perform the backtesting, you need to configure parameters of the symbol that you want to load. If the requiring history refers to the existing trade symbol in VT-Terminal, then the settings can be simply borrowed by pressing _**“Get from real symbol”**_ button.
 
 ![Symbol settings](../.gitbook/assets/historical-symbol-settings-first-step.gif)
 

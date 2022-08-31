@@ -40,7 +40,7 @@ Here you should name your bot and specify Parent connection (account) to set up 
 
 ### Add multi accounts for the same connect&#xD;
 
-Now we should specify the dependent connection and account. To add another account for the same connection in Quantower, you should go to Connections manager, duplicate the required connection, rename it optionally, and log in with another account credentials. You may repeat this action for as many accounts as you need. Later you will see all these accounts in Child connections settings.
+Now we should specify the dependent connection and account. To add another account for the same connection in VT-Terminal, you should go to Connections manager, duplicate the required connection, rename it optionally, and log in with another account credentials. You may repeat this action for as many accounts as you need. Later you will see all these accounts in Child connections settings.
 
 ![](../.gitbook/assets/frame-11.png)
 

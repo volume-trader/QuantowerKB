@@ -6,7 +6,7 @@ description: >-
 
 # Market Heat map
 
-### General overview of Market Heatmap panel in Quantower
+### General overview of Market Heatmap panel in VT-Terminal
 
 A trader can use this panel as a research tool to view the performance of various assets (stocks, cryptos, futures). Different colors will help you to quickly assess the state of assets relative to each other.
 

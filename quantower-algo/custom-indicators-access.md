@@ -6,7 +6,7 @@ description: Instantiate a custom indicator with input parameters.
 
 ## General
 
-Quantower API provides a huge collection of built-in indicators. But sometimes we need to use our own indicator that we developed before or downloaded from the Internet. 
+VT-Terminal API provides a huge collection of built-in indicators. But sometimes we need to use our own indicator that we developed before or downloaded from the Internet. 
 
 In this article, we will create an instance of the custom indicator and pass the input parameters in different ways.
 

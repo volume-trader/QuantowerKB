@@ -7,7 +7,7 @@ description: >-
 # Connections manager
 
 {% embed url="https://www.youtube.com/watch?v=_1tnBDlyDbY" %}
-How to work with Connections manager in Quantower
+How to work with Connections manager in VT-Terminal
 {% endembed %}
 
 Connections are integrations with third-party providers that supply various data: trading quotes, symbols history etc. 
@@ -31,7 +31,7 @@ Once connected, info column will contain the data about ping and current connect
 ## Multi-connect
 
 {% hint style="info" %}
-Quantower supports multiple connections simultaneously, but this function available under paid licenses — Advanced Features, Crypto Package, Multi-Asset package and All-In-One License.
+VT-Terminal supports multiple connections simultaneously, but this function available under paid licenses — Advanced Features, Crypto Package, Multi-Asset package and All-In-One License.
 {% endhint %}
 
 ![Multiple connections in VT-Terminal at the same time ](../.gitbook/assets/multiple-connections.png)

@@ -17,7 +17,7 @@ Spread trading is a strategy that simultaneously creates a long and short positi
 
 ![General view of Synthetic Symbols in VT-Terminal platform](../.gitbook/assets/synthetic-symbol-2021-06-21-18.53.16.png)
 
-### How to Create a Custom Spread in Quantower?
+### How to Create a Custom Spread in VT-Terminal?
 
 For example, let's build an FX spread with multiple forex pairs (we will use futures contracts on the CQG connection).
 

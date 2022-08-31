@@ -36,7 +36,7 @@ To place an order via Order Entry:
 
 ![Placing a new position via Order Entry in DOM Trader ](../.gitbook/assets/oco-dom.gif)
 
-{% embed url="https://www.youtube.com/watch?v=8a19rPvy2nQ" caption="DOM Trader panel in Quantower" %}
+{% embed url="https://www.youtube.com/watch?v=8a19rPvy2nQ" caption="DOM Trader panel in VT-Terminal" %}
 
 ## DOM Trader settings
 

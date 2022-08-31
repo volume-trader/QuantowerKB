@@ -18,7 +18,7 @@ Backup & restore manager plugin allows to keep your settings safe and restore th
 
 ## Backup settings
 
-The backup process is easy and doesn’t require many explanations. Just select the path where your backup file will be stored \(Quantower backups folder by default; recommended\) and press the **\[ CREATE BACKUP \]** button.
+The backup process is easy and doesn’t require many explanations. Just select the path where your backup file will be stored \(VT-Terminal backups folder by default; recommended\) and press the **\[ CREATE BACKUP \]** button.
 
 ![](../.gitbook/assets/backupsettings1.png)
 

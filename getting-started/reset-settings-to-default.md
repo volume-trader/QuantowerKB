@@ -15,7 +15,7 @@ Settings folder contains all the workspaces, saved templates, as well as all the
 ### **Save, copy, restore and reset VT-Terminal settings - video**
 
 {% embed url="https://www.youtube.com/watch?v=n0lUFu8FNN8&t=168s" %}
-Quantower Settings. How to Save, Copy, Restore, Reset
+VT-Terminal Settings. How to Save, Copy, Restore, Reset
 {% endembed %}
 
 ### How to Reset All Settings to default
@@ -65,7 +65,7 @@ Moreover, for checking issues our developers can request Log Files. Please go to
 ### How to share your Templates with other traders
 
 {% hint style="success" %}
-You can share your templates with other VT-Terminal traders by sharing template files with them. Template files can be found in the folder **"Quantower -> Settings -> Templates"**
+You can share your templates with other VT-Terminal traders by sharing template files with them. Template files can be found in the folder **"VT-Terminal -> Settings -> Templates"**
 
 The file to be transferred must be placed in a similar folder on another computer
 {% endhint %}

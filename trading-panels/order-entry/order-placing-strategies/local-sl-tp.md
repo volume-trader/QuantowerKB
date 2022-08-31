@@ -8,7 +8,7 @@ description: >-
 
 ## Before the use in live trading
 
-Quantower provides this functionality using the Orders placing strategy feature, meaning that all of the Local orders are solely handled on the platform side (literally "on your machine"). Such behavior leads to some important notices and limitations that users should understand before use of Local closing orders:
+VT-Terminal provides this functionality using the Orders placing strategy feature, meaning that all of the Local orders are solely handled on the platform side (literally "on your machine"). Such behavior leads to some important notices and limitations that users should understand before use of Local closing orders:
 
 {% hint style="warning" %}
 <mark style="color:orange;">**We insist that you read, practice, and understand how the Local closing orders work before using them for live trading.**</mark>&#x20;

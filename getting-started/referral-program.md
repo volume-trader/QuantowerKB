@@ -18,7 +18,7 @@ Our Referral Program allows you to earn real money, that can be spent on buying 
 How does VT-Terminal Referral Program work?
 {% endembed %}
 
-### **There are 4 simple steps to start earning by inviting your friends to Quantower:**
+### **There are 4 simple steps to start earning by inviting your friends to VT-Terminal:**
 
 * **Get a link with your code.** Any registered customer of VT-Terminal can find its referral code from within the personal account page ([https://accounts.quantower.com](https://accounts.quantower.com/)) \
   You will be able to **copy the complete referral link to start sharing immediately**.

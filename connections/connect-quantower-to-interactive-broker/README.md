@@ -8,7 +8,7 @@ description: >-
 # Connection to Interactive Brokers
 
 * ****[**Data Limitations**](./#data-limitations)****
-* ****[**Necessary steps for successful connection to Quantower**](./#necessary-steps-for-successful-connection-to-quantower)****
+* ****[**Necessary steps for successful connection to VT-Terminal**](./#necessary-steps-for-successful-connection-to-quantower)****
 * ****[**How to connect to Interactive Brokers using TWS platform**](./#how-to-connect-to-interactive-brokers-using-tws-platform)****
 * ****[**How to connect to Interactive Brokers using IB Gateway**](./#how-to-connect-to-interactive-brokers-using-ib-gateway)****
 * ****[**Problems during the connection to Interactive Brokers**](./#problems-during-the-connection-to-interactive-brokers)****
@@ -29,7 +29,7 @@ For more details on these limitations see [IB Data Limitations](https://interact
 * Market data updates are not frequent; therefore, we do not recommend using IB data (instead we recommend using dxFeed or Iqfeed as market data provider).
 {% endhint %}
 
-## Necessary steps for a successful connection to Quantower
+## Necessary steps for a successful connection to VT-Terminal
 
 This guide will help you to configure the connection to the Interactive Brokers and start working on VT-Terminal platform.
 
@@ -113,9 +113,9 @@ Select the application through which you are connecting  — TWS platform or IB 
 
 ![Select the necessary connection port type](../../.gitbook/assets/connection-settings-for-ib.png)
 
-If the problem persists even after choosing the right application, you need to configure the _**Socket port** _ in TWS (or IB Gateway) and Quantower.
+If the problem persists even after choosing the right application, you need to configure the _**Socket port** _ in TWS (or IB Gateway) and VT-Terminal.
 
-![This Socket port in TWS (or IB gateway) should be the same as in Quantower](../../.gitbook/assets/socket-port.png)
+![This Socket port in TWS (or IB gateway) should be the same as in VT-Terminal](../../.gitbook/assets/socket-port.png)
 
 Select the _**Custom**_ connection port type in the Connection settings of VT-Terminal and set the _**Port Value**_
 

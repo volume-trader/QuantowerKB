@@ -29,7 +29,7 @@ Real-time mode shows all the trades that are currently executed. The historical 
 
 The basic settings in Time & Sales are similar to the parameters of most panels in VT-Terminal — full flexibility in color settings, fonts, columns visibility, data position relative to the column, etc.&#x20;
 
-![Time & Sales settings in Quantower](../.gitbook/assets/time\_sales-settings.png)
+![Time & Sales settings in VT-Terminal](../.gitbook/assets/time\_sales-settings.png)
 
 But some settings are unique for this panel:
 

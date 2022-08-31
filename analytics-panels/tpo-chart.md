@@ -19,7 +19,7 @@ To open a new TPO panel, go to the _**Main menu**_ (Logo icon) and select _**TPO
 
 ### Key Elements of TPO Profile Chart
 
-![Main Elements of TPO Profile Chart (a.k.a. Market Profile) in Quantower](../.gitbook/assets/tpocontrols.png)
+![Main Elements of TPO Profile Chart (a.k.a. Market Profile) in VT-Terminal](../.gitbook/assets/tpocontrols.png)
 
 **Point of Control (POC)** — price level of the greatest market activity or trading volume. At this level, the price spent most time over the profile range.
 
@@ -120,7 +120,7 @@ To switch between necessary sessions, go to the **TPO Chart settings -> View -> 
 
 There also you can find the setting **Show our of session history** that will hide/show bars (candles) that are placed beyond the time of the selected session. Note that it works only if you activate Bars data on TPO chart
 
-![Switching between Session Templates in Quantower](<../.gitbook/assets/TPO profile sessions templates.gif>)
+![Switching between Session Templates in VT-Terminal](<../.gitbook/assets/TPO profile sessions templates.gif>)
 
 ## Additional settings of TPO Profile
 

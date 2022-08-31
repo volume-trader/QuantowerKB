@@ -39,6 +39,6 @@ If the separate panel is in the Bind, the template saving cannot be applied to i
 ![](<../.gitbook/assets/image (50).png>)
 
 {% hint style="success" %}
-You can **share your templates** with other VT-Terminal traders by sharing the template files with them. Template files can be found in “Quantower -> Settings -> Templates” folder.
+You can **share your templates** with other VT-Terminal traders by sharing the template files with them. Template files can be found in “VT-Terminal -> Settings -> Templates” folder.
 {% endhint %}
 

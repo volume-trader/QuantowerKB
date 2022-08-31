@@ -8,7 +8,7 @@ description: >-
 
 ## General idea
 
-**Quantower** trading platform provides a wide set of professional features for manual trading, but you can use it for algorithmic trading also. With VT-Terminal Algo solutions you can simply create standard trading scripts such as indicators and strategies, as well as additional platform extensions: own connectors with brokers, plugins, Custom columns, etc. What is differ Quantower, from other trading platforms - you don't need to study some proprietary language or development environment. You will use the only standard, well-known instruments, that used by developers all over the world. 
+**Quantower** trading platform provides a wide set of professional features for manual trading, but you can use it for algorithmic trading also. With VT-Terminal Algo solutions you can simply create standard trading scripts such as indicators and strategies, as well as additional platform extensions: own connectors with brokers, plugins, Custom columns, etc. What is differ VT-Terminal, from other trading platforms - you don't need to study some proprietary language or development environment. You will use the only standard, well-known instruments, that used by developers all over the world. 
 
 There are three main key points in our vision of algorithmic scripts development:
 
@@ -29,10 +29,10 @@ We are planning to provide our users the possibility to use all well-known produ
 We provide absolutely full access to all functionality of our trading core layer for developers. Moreover, we are developing VT-Terminal using the same API, which means you always will have an up-to-date and powerful set of features, which allows you to create a script at any level script, from trivial indicators to complex strategies or trading/analytics panels.
 
 {% hint style="info" %}
-Quantower API documentation is available on: [http://api.quantower.com](http://api.quantower.com)\
+VT-Terminal API documentation is available on: [http://api.quantower.com](http://api.quantower.com)\
 See examples of some strategies, integrations and indicators in our [Github repository](https://github.com/Quantower/Examples)
 
-[Quantower Algo extension](https://marketplace.visualstudio.com/items?itemName=Quantower.quantoweralgo) on Visual Studio Marketplace
+[VT-Terminal Algo extension](https://marketplace.visualstudio.com/items?itemName=VT-Terminal.quantoweralgo) on Visual Studio Marketplace
 {% endhint %}
 
 ## Before you start

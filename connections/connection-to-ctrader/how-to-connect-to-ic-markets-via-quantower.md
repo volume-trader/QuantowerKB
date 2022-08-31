@@ -1,4 +1,4 @@
-# How to connect to IC Markets via Quantower
+# How to connect to IC Markets via VT-Terminal
 
 To connect VT-Terminal platform to IC Markets broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with IC Markets, then go to the penultimate step in this manual.
 

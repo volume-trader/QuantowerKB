@@ -1,4 +1,4 @@
-# How to connect to FxPro via Quantower
+# How to connect to FxPro via VT-Terminal
 
 To connect VT-Terminal platform to FxPro broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with FxPro, then go to the penultimate step in this manual.
 

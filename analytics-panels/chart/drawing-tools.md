@@ -23,7 +23,7 @@ Learn how to Synchronize Drawing Tools between multiple charts
 
 ### How to create multiple templates for drawings?
 
-Starting from [Quantower version # 1.126](https://www.quantower.com/release-notes) all drawings have a new option '<mark style="background-color:blue;">**Save as Template**</mark>'. Using multiple templates, a trader can set up drawings with different visual parameters, and switch between them in a couple of clicks.
+Starting from [VT-Terminal version # 1.126](https://www.quantower.com/release-notes) all drawings have a new option '<mark style="background-color:blue;">**Save as Template**</mark>'. Using multiple templates, a trader can set up drawings with different visual parameters, and switch between them in a couple of clicks.
 
 * Once you have configured the drawing to your own choice, click on <mark style="background-color:orange;">**Save**</mark> icon and select <mark style="background-color:blue;">**Save as Template**</mark> from the dropdown list.
 * Set the necessary name for the current template.

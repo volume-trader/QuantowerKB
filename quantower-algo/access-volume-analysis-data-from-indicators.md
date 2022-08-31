@@ -4,7 +4,7 @@ description: Use advanced Volume Analysis technique in your indicators
 
 # Access Volume analysis data from indicators
 
-Quantower trading platform has a wide set of [**Volume analysis tools**](https://www.quantower.com/volumeanalysistools), an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price.&#x20;
+VT-Terminal trading platform has a wide set of [**Volume analysis tools**](https://www.quantower.com/volumeanalysistools), an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price.&#x20;
 
 You can easily access all volume analysis data from your indicator. By default charts does not loading such data, as it requires time to get full trades history. You need to notify chart, that your indicator need it for calculations and you can do this by implementing a special Interface **IVolumeAnalysisIndicator**:
 
@@ -121,4 +121,4 @@ When we build this indicator and add on the chart we can see next result:
 
 ![Indicator lines show average buy size and average sell size](../.gitbook/assets/volumeanalysisindicator.png)
 
-In this topic, we showed you the simple example of indicator based on volume analysis data. You may improve it and create really advanced and complex indicator, similar to Volume Analysis tools from Quantower, for example Cluster Chart. In our next topics we will provide an example of drawing volume profiles on the chart.
+In this topic, we showed you the simple example of indicator based on volume analysis data. You may improve it and create really advanced and complex indicator, similar to Volume Analysis tools from VT-Terminal, for example Cluster Chart. In our next topics we will provide an example of drawing volume profiles on the chart.

@@ -8,7 +8,7 @@ description: >-
 
 * ****[**How to Create a New Demo Account?**](./#how-to-start-trading-via-amp-cqg-connection)****
 * ****[**How to Find a Trading Symbol in VT-Terminal for CQG connection?**](./#how-to-add-trading-symbols-from-the-cqg-connection)****
-* ****[**How to add TRIN, TICK market indicators into Quantower?**](./#how-to-add-trin-tick-market-indicators-into-quantower)****
+* ****[**How to add TRIN, TICK market indicators into VT-Terminal?**](./#how-to-add-trin-tick-market-indicators-into-quantower)****
 * ****[**Possible Errors with CQG connection**](errors-with-cqg.md)****
 * ****[**Trading with AMP/CQG (key points) — OCO, Brackets, Multi-Brackets**](../../trading-panels/order-entry/order-entry-for-cqg.md)****
 * ****[**How to set custom trading sessions for futures on CQG, Rithmic?**](./#how-to-set-custom-trading-sessions-for-futures-on-cqg-rithmic)****
@@ -18,7 +18,7 @@ Besides, traders get the opportunity to work with a wide range of analytical too
 
 ### How to start trading via AMP/CQG connection?
 
-Below there is the link where you can register a **demo account for 28 days** and try all the functionality of the platform at work. If you already have a live trading account, you can start your trading directly via Quantower.
+Below there is the link where you can register a **demo account for 28 days** and try all the functionality of the platform at work. If you already have a live trading account, you can start your trading directly via VT-Terminal.
 
 {% embed url="https://vip.ampfutures.com/quantower-cqg" %}
 
@@ -68,7 +68,7 @@ By default, we do not provide a predefined list of symbols (maybe in the next up
 | Silver Futures                        | SIE    | ✔                                |
 | Copper Futures                        | CPE    |                                  |
 
-### How to add TRIN, TICK market indicators into Quantower?
+### How to add TRIN, TICK market indicators into VT-Terminal?
 
 CQG provides access to [market indicators via AMP Futures](https://www.ampfutures.com/trading-info/cqg-supported-indexes) that allow you to assess the overall sentiment of the market. **TRIN** and **TICK** are the most popular indicators that can be used to determine the short-term price movement.
 
@@ -81,7 +81,7 @@ CQG provides access to [market indicators via AMP Futures](https://www.ampfuture
 * a [**subscription**](https://www.ampfutures.com/trading-info/exchange-data-fees) to this data is required (contact your broker to activate)
 * if you already have a subscription, open the connection settings and activate the **CQG Comp** exchange to download these symbols
 
-![Activate the exchange for getting TRIN, TICK indicators in Quantower](<../../.gitbook/assets/image (355) (1) (1).png>)
+![Activate the exchange for getting TRIN, TICK indicators in VT-Terminal](<../../.gitbook/assets/image (355) (1) (1).png>)
 
 * Connect to CQG and start typing the name of the required indicator in the symbol search field
 
@@ -97,7 +97,7 @@ As an example, let's set the time of RTH and ETH sessions for CME Indexes:
 
 * Open [<mark style="background-color:blue;">**Sessions Manager**</mark>](../../miscellaneous-panels/sessions-manager.md) panel in the Misc section
 
-![Sessions Manager panel in Quantower](<../../.gitbook/assets/image (359) (1) (1).png>)
+![Sessions Manager panel in VT-Terminal](<../../.gitbook/assets/image (359) (1) (1).png>)
 
 * Click the <mark style="background-color:blue;">**Sessions templates**</mark> button on the toolbar and <mark style="background-color:blue;">**Create new**</mark> to open the Session template creation screen.
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Here you will learn about the basic settings of the chart in Quantower. In
+  Here you will learn about the basic settings of the chart in VT-Terminal. In
   order to get to this menu, you need to right-click on the chart and in the
   menu select settings
 ---

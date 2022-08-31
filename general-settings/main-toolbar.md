@@ -8,7 +8,7 @@ description: >-
 
 **Main Toolbar** — is the main starting point of the platform, used as a launcher and informer simultaneously.
 
-![Quantower Main toolbar](<../.gitbook/assets/image (73).png>)
+![VT-Terminal Main toolbar](<../.gitbook/assets/image (73).png>)
 
 Main Toolbar technically is a panel, but behaves something differently: it can be dragged among your screens (if you have more than one) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it.&#x20;
 
@@ -46,7 +46,7 @@ Each group in this menu can be collapsed in order to make the panels list cleane
 
 The footer of the Main Menu contains several functions:
 
-* “**About**” link: opens a screen with information about terminal (version, rollback, updates checker etc.). If the system detects the new version of Quantower, the **“NEW VERSION”** button appears instead of this link;
+* “**About**” link: opens a screen with information about terminal (version, rollback, updates checker etc.). If the system detects the new version of VT-Terminal, the **“NEW VERSION”** button appears instead of this link;
 * “**Exit**” button closes the application.
 
 {% hint style="info" %}
@@ -74,7 +74,7 @@ This feature is useful in case you would like to only analyze the market or whil
 ### Workspaces manager
 
 {% embed url="https://www.youtube.com/watch?v=A_2gJdeP-08&t=20s" %}
-Create and save your workspace in Quantower
+Create and save your workspace in VT-Terminal
 {% endembed %}
 
 **Workspaces manager** allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.

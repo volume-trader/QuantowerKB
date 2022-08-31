@@ -49,7 +49,7 @@ For this reason, **it is important to use the exact stock ticker as presented on
 
 ![Use the exact stocks ticker to get market data in VT-Terminal ](<../.gitbook/assets/image (300).png>)
 
-![Use the exact stocks ticker to get market data in Quantower](<../.gitbook/assets/image (298).png>)
+![Use the exact stocks ticker to get market data in VT-Terminal](<../.gitbook/assets/image (298).png>)
 
 ![Search by description does not find stocks](<../.gitbook/assets/image (299).png>)
 

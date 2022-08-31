@@ -1,5 +1,5 @@
 ---
-description: In this topic we will show you how simple is writing indicators in Quantower
+description: In this topic we will show you how simple is writing indicators in VT-Terminal
 ---
 
 # Simple Indicator

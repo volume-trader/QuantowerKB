@@ -55,10 +55,10 @@ There are some technical processes in the Coinpayments that should be accomplish
 **To check whether your license was assigned to your account**, you should monitor the following sources:
 
 * your account’s email address, where you should receive a notification about the successful payment;
-* in your [Quantower account panel](http://accounts.quantower.com), in the Payments History section.
+* in your [VT-Terminal account panel](http://accounts.quantower.com), in the Payments History section.
 
 Once we receive approval from Coinpayments, we will immediately assign you a license and send you a confirmation email about the successful purchase. From this moment you can use your advanced feature.\
 
 
-![Quantower license payment is successfull](../.gitbook/assets/screenshot\_9.png)
+![VT-Terminal license payment is successfull](../.gitbook/assets/screenshot\_9.png)
 

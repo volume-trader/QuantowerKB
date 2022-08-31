@@ -1,4 +1,4 @@
-# How to connect to Pepperstone via Quantower
+# How to connect to Pepperstone via VT-Terminal
 
 To connect VT-Terminal platform to Pepperstone broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with Pepperstone, then go to the penultimate step in this manual.
 

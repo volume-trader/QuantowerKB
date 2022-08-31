@@ -13,10 +13,10 @@ Once you downloaded VT-Terminal application from VT-Terminal official website �
 {% embed url="https://youtu.be/155Ha6Rku0E" %}
 
 {% hint style="success" %}
-Quantower does not copy its files to the system folders (AppData or Program Files) of the OS, nor does write changes to the system registry
+VT-Terminal does not copy its files to the system folders (AppData or Program Files) of the OS, nor does write changes to the system registry
 {% endhint %}
 
-What does it mean? The program doesn't violate the integrity of the OS, and in case of removal, it will not leave any prints of its presence on your computer. Quantower’s "installer" literally extracts files to the user-specified folder.
+What does it mean? The program doesn't violate the integrity of the OS, and in case of removal, it will not leave any prints of its presence on your computer. VT-Terminal’s "installer" literally extracts files to the user-specified folder.
 
 This approach allows you to store (and launch) the VT-Terminal on removable drive for use on any other computer as the portable application. It can be convenient when you need to move VT-Terminal with all of its settings to another PC; just copy VT-Terminal folder and paste where you need.
 
@@ -38,9 +38,9 @@ We recommend using Windows 10.
 
 ### Installation steps
 
-![Quantower installer screen](../.gitbook/assets/extract-files-quantower.png)
+![VT-Terminal installer screen](../.gitbook/assets/extract-files-quantower.png)
 
-1. [**Download the app installer**](https://updates.quantower.com/Quantower/x64/latest/Quantower.exe) and launch the _**Quantower.exe**_ file
+1. [**Download the app installer**](https://updates.quantower.com/Quantower/x64/latest/VT-Terminal.exe) and launch the _**VT-Terminal.exe**_ file
 2. Select the folder to extract application files
 3. Once an extraction process being finished the platform will start automatically with **Binance connection** in Info Mode and with the default workspace
 

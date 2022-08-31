@@ -11,7 +11,7 @@ If you faced any troubles or questions while using terminal feel free to ask VT-
 
 The Live support panel in VT-Terminal application is built in order allow integration of support channel into your workspace. This panel can be easily bond with others.
 
-![Quantower support at your service](../.gitbook/assets/livesupport.png)
+![VT-Terminal support at your service](../.gitbook/assets/livesupport.png)
 
 Once opened a panel you will get to the queue list for support and our managers will answer you as soon as possible. You may email the chat dialog to yourself using the “Options” button on the left bottom corner.
 

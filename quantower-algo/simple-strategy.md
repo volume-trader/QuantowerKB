@@ -12,9 +12,9 @@ See examples of some strategies, integrations and indicators in our [Github repo
 
 ## What is a Strategy?
 
-We use the name "Strategy" for code, that can implement absolutely any logic and can be executed in Quantower. You can use strategies for the realization of trading algorithms, a specific logic of controlling closing orders \(for example Trailing stop\), for arbitrage between different connections, etc. We don't have any restrictions or limitations for this, moreover, we provide you access to almost all functions from our trading core. 
+We use the name "Strategy" for code, that can implement absolutely any logic and can be executed in VT-Terminal. You can use strategies for the realization of trading algorithms, a specific logic of controlling closing orders \(for example Trailing stop\), for arbitrage between different connections, etc. We don't have any restrictions or limitations for this, moreover, we provide you access to almost all functions from our trading core. 
 
-Quantower Algo provides you with two predefined templates of strategies. We will start from a blank template, which contains only basic functions. Use "_**File -&gt; New project**_" in the main menu of Visual Studio to open "**New project**" window. Type "Strategy" and you will see special project type for blank strategy:
+VT-Terminal Algo provides you with two predefined templates of strategies. We will start from a blank template, which contains only basic functions. Use "_**File -&gt; New project**_" in the main menu of Visual Studio to open "**New project**" window. Type "Strategy" and you will see special project type for blank strategy:
 
 ![New project window](../.gitbook/assets/image%20%2856%29.png)
 
@@ -22,7 +22,7 @@ You will get generated code with a few empty functions:
 
 ![Source code for Strategy template](../.gitbook/assets/empty-code.png)
 
-As you can see, this blank version is not related to any trading functionality - it is a just general code-basis. It is inherited of class Strategy, by this VT-Terminal recognize that your code is compatible and can be executed in Quantower. 
+As you can see, this blank version is not related to any trading functionality - it is a just general code-basis. It is inherited of class Strategy, by this VT-Terminal recognize that your code is compatible and can be executed in VT-Terminal. 
 
 ## Basic methods
 
@@ -122,7 +122,7 @@ protected override List<StrategyMetric> OnGetMetrics()
 }
 ```
 
-Build your project, and if your VT-Terminal Algo is properly assigned to an instance of Quantower, your strategy will be automatically copied to an appropriate folder and you will see it in Strategy Lookup window:
+Build your project, and if your VT-Terminal Algo is properly assigned to an instance of VT-Terminal, your strategy will be automatically copied to an appropriate folder and you will see it in Strategy Lookup window:
 
 ![Now your strategy is available in the Strategies Lookup](../.gitbook/assets/strategy-in-lookup.png)
 
@@ -130,5 +130,5 @@ You need to specify the required input parameters: symbol and account and then p
 
 ![Strategy runner panel with our running strategy](../.gitbook/assets/runnoingstrategie.png)
 
-It is a very simple example and it provides you only basic knowledge about how strategies are working in Quantower. In our further lessons, we will show you how to create real algorithms using analysis of your current trading portfolio and trading operations.
+It is a very simple example and it provides you only basic knowledge about how strategies are working in VT-Terminal. In our further lessons, we will show you how to create real algorithms using analysis of your current trading portfolio and trading operations.
 

@@ -12,5 +12,5 @@ You can hide the toolbar containing "Account lookup" field \(via Settings\) in c
 
 To open a new Account info panel, go to the _**Main menu**_ \(Logo icon\) and select _**Account info \(ACC\)**_ in the Information section.
 
-![Account Info panel in Quantower](../.gitbook/assets/image%20%2895%29.png)
+![Account Info panel in VT-Terminal](../.gitbook/assets/image%20%2895%29.png)
 
