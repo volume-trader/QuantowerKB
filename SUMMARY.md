@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Volume-Trader Help](README.md)
+* [Welcome to VT-Terminal Help](README.md)
 * [Getting Started](getting-started/README.md)
   * [What's new](getting-started/latest-version.md)
   * [Installation](getting-started/installation.md)
